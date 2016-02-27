@@ -53,3 +53,41 @@ Each startup receives an advisor who consults with the organization throughout t
 Many of the experts in our network of advisors offer unique coaching sessions specifically designed for program participants.
 
 [Apply Now](/apply)
+
+----
+
+## We believe in passionate followers of Christ Jesus and their startups.
+
+We serve Christ-followers who start world-changing movements. Here are some of the courageous founders who have participated in our program.
+
+[PHOTO]
+**Karrie Garcia**  
+Founder, The Freedom Movement
+“Wayfare Labs has allowed me to dream even bigger.”
+
+[PHOTO]
+**Jonathan Trigg**  
+Co-founder, The Integrated
+“Wayfare Labs has given me the confidence that I can do this well.”
+
+[PHOTO]
+**Karen Mcmurray**  
+Founder, True Blue Science
+“I looked at other programs before being introduced to Wayfare Labs, but none of them were Christ-minded, which was imperative.”
+
+[PHOTO]
+**Juliana Hilmerson**  
+Executive Team, The Freedom Movement
+“Our time in Wayfare Labs has allowed us to build a strong foundation so that we can grow into a sustainable movement.”
+
+[PHOTO]
+**Ariel Mantelli**  
+Co-founder, The Integrated
+“Wayfare Labs is everything to me when it comes to my business.”
+
+----
+
+What is God calling you to?
+
+[BUTTON]
+[Apply] [Give] [Contact]
