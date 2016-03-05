@@ -1,9 +1,9 @@
 ---
-title: Home
+title: A startup incubator for Creation-restoring movements.
 date: 2016-02-26 17:15:00 -08:00
 ---
 
-# A startup incubator for Creation-restoring movements.
+## A startup incubator for Creation-restoring movements.
 
 ## Which world-changing idea do you resonate with most? Select your favorite idea from those that just launched out of Wayfare Labs!
 
