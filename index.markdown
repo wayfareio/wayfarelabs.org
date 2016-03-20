@@ -1,5 +1,5 @@
 ---
-title: Let’s build the world’s best future, together.
+title: Let's build the world's best future, together.
 slogan: A startup incubator for creation-restoring movements.
 hide_in_nav: false
 nav_title: Home
