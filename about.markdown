@@ -3,8 +3,6 @@ title: About
 date: 2016-02-26 17:27:00 -08:00
 ---
 
-# About
-
 **Our Vision**  
 By 2030, Orange County will be known for its kingdom startups the way the Bay Area is known for its tech startups.
 
@@ -19,25 +17,34 @@ We would love for you to be a part of that community. Become an advisor, apply t
 
 Thank you,
 
-Jeff Tanner  
+**Jeff Tanner**  
 Executive Director, Wayfare Labs
 
 ----
 
 ## Our Team
 
-**Jeff Tanner**  
-Co-founder/Executive Director
-[PHOTO]
-
-**Brandon Arbini**  
-Co-founder/Program Director
-[PHOTO]
-
-**Elisha Avne**  
-Program Manager
-[PHOTO]
-
-**Jay Sherer**  
-Director of Marketing
-[PHOTO]
+<div class="container">
+  <div class="row uniform">
+    <div class="3u 6u(medium) 12u$(xsmall)">
+      <a href="#" class="image"><img src="/images/pic01.jpg" alt=""></a><br>
+      <strong>Jeff Tanner</strong><br>
+      Co-founder/Executive Director
+    </div>
+    <div class="3u 6u$(medium) 12u$(xsmall)">
+      <a href="#" class="image"><img src="/images/pic02.jpg" alt=""></a><br>
+      <strong>Brandon Arbini</strong><br>
+      Co-founder/Program Director
+    </div>
+    <div class="3u 6u(medium) 12u$(xsmall)">
+      <a href="#" class="image"><img src="/images/pic03.jpg" alt=""></a><br>
+      <strong>Elisha Avne</strong><br>
+      Program Manager
+    </div>
+    <div class="3u 6u$(medium) 12u$(xsmall)">
+      <a href="#" class="image"><img src="/images/pic04.jpg" alt=""></a><br>
+      <strong>Jay Sherer</strong><br>
+      Director of Marketing
+    </div>
+  </div>
+</div>

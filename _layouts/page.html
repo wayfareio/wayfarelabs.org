@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+      <section id="main" class="wrapper">
+        <div class="inner">
+          <header class="major">
+            <h2>{{ page.title }}</h2>
+            {% if page.subtitle %}
+              <p>{{ page.subtitle }}</p>
+            {% endif %}
+          </header>
+          <div class="content">
+            {{ content }}
+          </div>
+        </div>
+      </section>
+    {% include footer.html %}
+  </body>
+</html>

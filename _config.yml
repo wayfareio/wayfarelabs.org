@@ -2,6 +2,8 @@
 title: Wayfare Labs
 url: http://v2.wayfarelabs.org
 timezone: America/Los_Angeles
+sass:
+  sass_dir: _sass
 collections:
   posts:
     title: Posts

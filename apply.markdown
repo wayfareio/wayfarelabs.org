@@ -3,8 +3,6 @@ title: Apply
 date: 2016-02-26 17:25:00 -08:00
 ---
 
-# Apply
-
 ## Application Process
 
 Wayfare Labs has three distinct phases, starting with our Launch Phase. The Launch Phase starts twice per year, in the spring and fall (for more information on the program, see our details page). Here’s what to expect when you apply:
@@ -15,7 +13,7 @@ Our form will ask you about your experience, your idea, and the team you’ve pu
 **STEP 2: Founder interviews.**  
 If your application aligns with what we’re looking for, we’ll interview the founding team. This allows us to make sure you’re ready for the Launch Phase. We love talking with founders, so this stage is always fun for us.
 
-**STEP 3: Selections are made for by the Wayfare Labs team.**  
+**STEP 3: Selections are made by the Wayfare Labs team.**  
 After the interviews are over, we have extensive conversations about who should be a part of our next batch. We take this part very seriously!
 
 ----
