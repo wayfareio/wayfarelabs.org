@@ -1,9 +1,9 @@
 ---
 title: Let's build the world's best future, together.
+date: 2016-02-26 17:15:00 -08:00
 slogan: A startup incubator for creation-restoring movements.
 hide_in_nav: false
 nav_title: Home
-date: 2016-02-26 17:15:00 -08:00
 layout: home
 ---
 
