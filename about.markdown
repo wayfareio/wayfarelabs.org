@@ -27,22 +27,22 @@ Executive Director, Wayfare Labs
 <div class="container">
   <div class="row uniform">
     <div class="3u 6u(medium) 12u$(xsmall)">
-      <a href="#" class="image"><img src="/images/pic01.jpg" alt=""></a><br>
+      <span class="image"><img src="/images/jeff.jpg" alt="Jeff Tanner" width="225"></span><br>
       <strong>Jeff Tanner</strong><br>
       Co-founder/Executive Director
     </div>
     <div class="3u 6u$(medium) 12u$(xsmall)">
-      <a href="#" class="image"><img src="/images/pic02.jpg" alt=""></a><br>
+      <span class="image"><img src="/images/brandon.jpg" alt="Brandon Arbini" width="225"></span><br>
       <strong>Brandon Arbini</strong><br>
       Co-founder/Program Director
     </div>
     <div class="3u 6u(medium) 12u$(xsmall)">
-      <a href="#" class="image"><img src="/images/pic03.jpg" alt=""></a><br>
+      <span class="image"><img src="/images/elisha.jpg" alt="Elisha Avne" width="225"></span><br>
       <strong>Elisha Avne</strong><br>
       Program Manager
     </div>
     <div class="3u 6u$(medium) 12u$(xsmall)">
-      <a href="#" class="image"><img src="/images/pic04.jpg" alt=""></a><br>
+      <span class="image"><img src="/images/jay.jpg" alt="Jay Sherer" width="225"></span><br>
       <strong>Jay Sherer</strong><br>
       Director of Marketing
     </div>
