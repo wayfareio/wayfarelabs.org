@@ -1,0 +1,47 @@
+@import "base";
+
+h1, h2, h3, h4, h5, h6 { color: $color1; font-family: $headline-font; }
+a {
+  color: $link-color; border-bottom: 1px dotted rgba(220,220,220,0.5); text-decoration: none; cursor: pointer;
+  &:hover { color: lighten($link-color, 10%); border-bottom: 1px dotted lighten($link-color, 10%); text-decoration: none; }
+  &.no-underline {
+    border-bottom: 0; text-decoration: none;
+    &:hover { border-bottom: 0; text-decoration: none; }
+  }
+}
+
+.page { position: relative; }
+
+nav {
+  a { text-transform: uppercase; }
+}
+header.page {
+  .container { padding-top: 10px; padding-bottom: 10px; }
+  nav { margin-top: 15px; }
+  .header-fixed {
+    position: fixed; z-index: 10000; top: 0; left: 0; width: 100%; background-color: $dark-gray; opacity: 0;
+    @include transition(opacity 0.3s linear);
+    &.affix { opacity: 1; }
+    a {
+      color: white;
+      &:hover { color: darken(white, 10%); border-bottom: 1px dotted darken(white, 10%); }
+      &.no-underline {
+        border-bottom: 0; text-decoration: none;
+        &:hover { border-bottom: 0; text-decoration: none; }
+      }
+    }
+  }
+}
+.content {
+  section {
+    padding-bottom: 15px; border: 1px solid $light-gray; border-width: 0 0 1px;
+    &:last-child { border-width: 0; }
+  }
+}
+footer.page {
+  background-color: $footer-color; color: white;
+  a {
+    color: white;
+    &:hover { color: darken(white, 10%); }
+  }
+}

@@ -1,0 +1,15 @@
+header .big-slide-link { position: absolute; right: 20px; top: 10px; font-size: 24px; }
+footer .big-slide-link { font-size: 16px; }
+
+$big-slide-width: 15.625em;
+.big-slide-panel {
+  position: fixed; z-index: 10001; right: -$big-slide-width; width: $big-slide-width; background-color: darken($dark-gray, 30%);
+  ul { position: absolute; right: 0; top: 0; width: $big-slide-width; }
+  li {
+    display: block; text-align: left; border: 1px solid $dark-gray; border-width: 0 0 1px; padding: 0;
+    a {
+      display: block; padding: 10px 15px; color: white; border-bottom: 0;
+      &:hover { border-bottom: 0; background: $dark-gray; }
+    }
+  }
+}

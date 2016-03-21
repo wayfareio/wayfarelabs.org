@@ -1,0 +1,9 @@
+$footer-height: 30px;
+$footer-padding: 40px;
+$footer-margin: 20px;
+
+html, body { height: 100%; }
+#page { min-height: 100%; }
+.content { overflow: auto; padding-bottom: $footer-height + $footer-padding + $footer-margin; }
+footer.page { position: relative; padding: $footer-padding/2 0; margin-top: -($footer-height + $footer-padding); height: $footer-height + $footer-padding; clear: both; }
+body:before { content: ""; height: 100%; float: left; width: 0; margin-top: -32767px; }
