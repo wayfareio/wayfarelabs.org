@@ -48,15 +48,19 @@ The Launch program is all about preparing you to launch your startup. You will b
 
 ## Growth
 
-The Growth program is designed to help you grow and scale your organization into sustainable impact.
+The Growth program is designed to help you grow and scale your organization into sustainable impact. This program is customized for the needs of each organization.
 
-* Monthly dinners with other startup founders
+* Regular gatherings with other startup founders
 
 * Access to special work sessions (as needed)
 
 * Workspace (discounted Wayfare Workspace, if needed)
 
-* Ongoing appointments with your advisor
+* Dedicated coaching sessions
+
+* Access to the Wayfare Labs advisor network
+
+* Discounted fractional C-suite services
 
 **Cost:** Variable, depending on each startups needs\
 **Length of Growth Program:** Variable, depending on progress
