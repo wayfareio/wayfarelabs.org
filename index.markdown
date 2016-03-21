@@ -4,6 +4,16 @@ date: 2016-02-26 17:15:00 -08:00
 slogan: A startup incubator for creation-restoring movements.
 hide_in_nav: false
 nav_title: Home
+Field name:
+- title: Practical Application
+  description: Solidify your business model, raise funds, build an audience, grow
+    your organization, and achieve your vision.
+- title: Emotional Support
+  description: Journey alongside experienced experts and passionate entrepreneurs
+    who support you throughout the program.
+- title: Spiritual Guidance
+  description: Learn from other Christ-followers and apply spiritual insights and
+    practices into your daily startup life.
 layout: home
 ---
 
