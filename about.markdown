@@ -7,11 +7,11 @@ date: 2016-02-26 17:27:00 -08:00
 By 2030, Orange County will be known for its kingdom startups the way the Bay Area is known for its tech startups.
 
 **Our History**\
-In 2013, my co-founder Brandon and I attended the Q gathering in Los Angeles where Erwin McManus asked attendees this question: “What if the church became the human incubator for creating the world’s best future?” That question resonated with us. We believe the church isn't a building or an institution but rather a community of Christ-followers called by God to participate with him as he renews the world. And it compelled us to action.
+In 2013, my co-founder Brandon and I attended the Q gathering in Los Angeles where Erwin McManus asked attendees this question: “What if the church became the human incubator for creating the world’s best future?” That question resonated with us. More than that, it compelled us to action. We believe the church isn't a building or an institution but rather a community of Christ-followers called by God to participate with him as he renews the world.
 
 Brandon had already started several companies, and had taken Zencoder through the prestigious startup incubator, Y Combinator. That experience left him (and his co-founders) far better prepared to succeed (Zencoder sold in 2012). I had also started several companies and served as an executive in others. My background has been in organizational development. That’s when it hit us. As part of the Church, we could pursue the world’s best future by creating an incubator for nonprofit and social good startups.
 
-We launched Wayfare Labs in fall of 2015 with our first batch of startups: The Freedom Movement, The Integrated, and True Blue Science. We’ve also built an advisor network of successful yet humble startup founders and industry experts who want to give back as part of the Wayfare Labs community.
+We launched Wayfare Labs in fall of 2015 with the first batch of startups in our launch program: The Freedom Movement, The Integrated, and True Blue Science. We're supporting eight today in batch 2 and in our growth program. And we’ve built an advisor network of successful yet humble startup founders and industry experts who want to give back as part of the Wayfare Labs community.
 
 We would love for you to be a part of that community. Become an advisor, apply to be part of our program, or support us financially.
 
