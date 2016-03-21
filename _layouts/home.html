@@ -9,7 +9,7 @@
       <div class="content">
         <div class="inner">
           <header>
-            <h2>{{ page.title }}</h2>
+            <h2>{{ page.headline | default: page.title }}</h2>
             <p>{{ page.slogan }}</p>
           </header>
           <ul class="actions">
