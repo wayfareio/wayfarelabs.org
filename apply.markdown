@@ -5,14 +5,14 @@ date: 2016-02-26 17:25:00 -08:00
 
 Wayfare Labs offers a few [distinct programs](http://wayfarelabs.org/programs) to help you start piloting your idea, launch your organization, and grow your business into sustainable impact. We're currently accepting applications for the Launch program. If you're interested in the Growth program, please [contact us](/contact). The Launch program starts twice per year, in the spring and fall (for more information on the program, [see our details page](/programs)). Here's what to expect when you apply:
 
-**STEP 1: Complete an application online.**\
-Our form will ask you about your experience, your idea, and the team you've put in place. Are you early on in your organization's formation? No problem. We accept startups that don't have traction yet. There's no reason not to fill out the form!
+**STEP 1: Complete an application online.**  
+Tell us about your experience, your idea, and the team you've put in place. We'll help guide you into the right program for your needs.
 
-**STEP 2: Founder interviews.**\
-If your application aligns with what we're looking for, we'll interview the founding team. This allows us to make sure you're ready for the Launch Phase. We love talking with founders, so this stage is always fun for us.
+**STEP 2: Founder interviews.**  
+If your application aligns with what we're looking for, we'll interview you and the other founders. This allows us to make sure you're ready for the Launch Phase.
 
-**STEP 3: Selections are made by the Wayfare Labs team.**\
-After the interviews are over, we have extensive conversations about who should be a part of our next batch. We take this part very seriously!
+**STEP 3: Selections are made by the Wayfare Labs team.**  
+After the interviews are over, we have extensive conversations about who should be a part of our next batch.
 
 ---
 
