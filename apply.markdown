@@ -12,7 +12,7 @@ Tell us about your experience, your idea, and the team you've put in place. We'l
 If your application aligns with what we're looking for, we'll interview you and the other founders. This allows us to make sure you're ready for the Launch Phase.
 
 **STEP 3: Selections are made by the Wayfare Labs team.**  
-After the interviews are over, we have extensive conversations about who should be a part of our next batch.
+After the interviews are complete, we have extensive conversations about who should be a part of our next batch.
 
 ---
 
