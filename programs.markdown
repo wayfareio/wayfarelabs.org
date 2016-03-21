@@ -41,7 +41,7 @@ The Launch program is all about preparing you to launch your startup. You will b
 
 * Launch Night preparation and presentation
 
-**Cost:** $10,000 (many payment options available)  \
+**Cost:** $10,000 (many payment options available)  
 **Length of Launch Program:** 5 months
 
 <a href="/apply" class="button huge">Apply Now</a>
@@ -58,7 +58,7 @@ The Growth program is designed to help you grow and scale your organization into
 
 * Ongoing appointments with your advisor
 
-**Cost:** Variable, depending on each startups needs  \
+**Cost:** Variable, depending on each startups needs  
 **Length of Growth Program:** Variable, depending on progress
 
 <a href="/contact" class="button huge">Inquire Now</a>
