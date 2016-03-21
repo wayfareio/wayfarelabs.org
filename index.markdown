@@ -4,7 +4,7 @@ date: 2016-02-26 17:15:00 -08:00
 slogan: A startup incubator for creation-restoring movements.
 hide_in_nav: false
 nav_title: Home
-Field name:
+benefits:
 - title: Practical Application
   description: Solidify your business model, raise funds, build an audience, grow
     your organization, and achieve your vision.
