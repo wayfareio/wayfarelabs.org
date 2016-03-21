@@ -41,28 +41,24 @@ The Launch program is all about preparing you to launch your startup. You will b
 
 * Launch Night preparation and presentation
 
-**Cost:** $10,000 (many payment options available)\
+**Cost:** $10,000 (many payment options available)  \
 **Length of Launch Program:** 5 months
 
 <a href="/apply" class="button huge">Apply Now</a>
 
 ## Growth
 
-The Growth program is designed to help you grow and scale your organization into sustainable impact. This program is customized for the needs of each organization.
+The Growth program is designed to help you grow and scale your organization into sustainable impact.
 
-* Regular gatherings with other startup founders
+* Monthly dinners with other startup founders
 
 * Access to special work sessions (as needed)
 
 * Workspace (discounted Wayfare Workspace, if needed)
 
-* Dedicated coaching sessions
+* Ongoing appointments with your advisor
 
-* Access to the Wayfare Labs advisor network
-
-* Discounted fractional C-suite services
-
-**Cost:** Variable, depending on each startups needs\
+**Cost:** Variable, depending on each startups needs  \
 **Length of Growth Program:** Variable, depending on progress
 
 <a href="/contact" class="button huge">Inquire Now</a>
