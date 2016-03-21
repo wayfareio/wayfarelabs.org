@@ -1,6 +1,7 @@
 ---
 title: Home
 date: 2016-02-26 17:15:00 -08:00
+position: 0
 headline: Let's build the world's best future, together.
 slogan: A startup incubator for creation-restoring movements.
 benefits:

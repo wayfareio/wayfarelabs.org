@@ -1,6 +1,7 @@
 ---
 title: Programs
 date: 2016-02-26 17:26:00 -08:00
+position: 2
 ---
 
 Wayfare Labs has a few distinct programs, all meant to help startups launch, grow, and transition into sustainability.
