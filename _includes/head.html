@@ -1,5 +1,13 @@
 <head>
-  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>
+    {% if page.headline %}
+      {{ page.headline }} | {{ site.title }}
+    {% elsif page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
   <meta charset="utf-8">
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
