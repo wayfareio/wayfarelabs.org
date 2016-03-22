@@ -1,12 +1,20 @@
 <!DOCTYPE HTML>
 <html>
   {% include head.html %}
-  <body>
+  {% if page.page_style %}
+    <body class="{{ page.page_style }}">
+  {% else %}
+    <body>
+  {% endif %}
     {% include header.html %}
+
+    {% if page.content_layout %}
+      {% include content/{{page.content_layout}}.html %}
+    {% else %}
       <section id="main" class="wrapper">
         <div class="inner">
           <header class="major">
-            <h2>{{ page.title }}</h2>
+            <h2>{{ page.headline | default: page.title }}</h2>
             {% if page.subtitle %}
               <p>{{ page.subtitle }}</p>
             {% endif %}
@@ -16,6 +24,8 @@
           </div>
         </div>
       </section>
+    {% endif %}
+
     {% include footer.html %}
   </body>
 </html>

@@ -1,5 +1,6 @@
-{% for my_page in site.pages %}
-  {% if my_page.title %}
-    <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.nav_title | default: my_page.title }}</a></li>
-  {% endif %}
+{% assign site_pages = site.pages | sort:"position"  %}
+{% for site_page in site_pages %}
+  {% unless site_page.hide_in_nav %}
+    <li><a class="page-link" href="{{ site_page.url | prepend: site.baseurl }}">{{ site_page.nav_title | default: site_page.title }}</a></li>
+  {% endunless %}
 {% endfor %}
