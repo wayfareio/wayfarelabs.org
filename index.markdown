@@ -21,14 +21,16 @@ benefits:
 features:
   title: COMMUNITY MATTERS. LET US INTRODUCE YOU TO OURS.
   description: One of the core components of our program is immersing founders in
-    Christ-centered community. Here are some of the ways you'll engage and interact with our community.
+    Christ-centered community. Here are some of the ways you'll engage and interact
+    with our community.
   list:
   - title: FOUNDER DINNERS
-    description: "Every Tuesday night, Labbers have an intimate dinner with a
-      Christ-following founder. Here are some of the guests we've hosted: Christine Nolf,
-      founder of Mika; Jessie Simonson and Alli Talley, co-founders of 31 Bits; Kohl Crecelius,
-      CEO and co-founder of Krochet Kids International; and many more..."
-    image:
+    description: 'Every Tuesday night, Labbers have an intimate dinner with a Christ-following
+      founder. Here are some of the guests we''ve hosted: Christine Nolf, founder
+      of Mika; Jessie Simonson and Alli Talley, co-founders of 31 Bits; Kohl Crecelius,
+      CEO and co-founder of Krochet Kids International; and many more...'
+    image: 
 page_style: landing
 content_layout: home
 ---
+
