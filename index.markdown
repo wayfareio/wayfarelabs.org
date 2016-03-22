@@ -22,13 +22,15 @@ benefits:
       practices into your daily startup life.
 cta:
   title: Partner with us to launch more creation-restoring movements
-  description: 'Wayfare Labs is a 501(c)(3) charitable organization<sup>*</sup>. We thrive based on your generosity.
-    Has God called  you to support Wayfare Labs? Choose from some of our options or give a custom amount. We appreciate your generosity and stewardship!'
+  description: Wayfare Labs is a 501(c)(3) charitable organization<sup>*</sup>. We
+    thrive based on your generosity. Has God called  you to support Wayfare Labs?
+    Choose from some of our options or give a custom amount. We appreciate your generosity
+    and stewardship!
 features:
   title: Community Matters. Let Us Introduce You to Ours.
-  description: 'One of the core components of our program is immersing founders in
-    Christ-centered community. Here are some of the ways you''ll engage and interact
-    with our community.'
+  description: One of the core components of our program is immersing founders in
+    Christ-centered community. Here are some of the ways you'll engage and interact
+    with our community.
   list:
   - title: Founder Dinners
     description: 'Every Tuesday night, Labbers have an intimate dinner with a Christ-following
@@ -38,18 +40,22 @@ features:
     image: "/uploads/dinners.jpg"
     at2x_image: "/uploads/dinners@2x.jpg"
   - title: Workshops
-    description: 'Taught by startup founders and experts in their respective fields, our workshops cover key
-      topics that startup founders need to address, like: Mission and Vision Formation; Customer Development; Fundraising; Communication; Entity Formation; and more...'
+    description: 'Taught by startup founders and experts in their respective fields,
+      our workshops cover key topics that startup founders need to address, like:
+      Mission and Vision Formation; Customer Development; Fundraising; Communication;
+      Entity Formation; and more...'
     image: "/uploads/workshops.jpg"
     at2x_image: "/uploads/workshops@2x.jpg"
   - title: Coaching
-    description: 'Each startup receives a coach who consults with them throughout the course of the program.
-      If you''re struggling with a specific topic, these coaches will give you the encouragement and guidance you need to push through it.'
+    description: Each startup receives a coach who consults with them throughout the
+      course of the program. If you're struggling with a specific topic, these coaches
+      will give you the encouragement and guidance you need to push through it.
     image: "/uploads/coaching.jpg"
     at2x_image: "/uploads/coaching@2x.jpg"
   - title: Advising
-    description: 'Many of the experts in our network of advisors offer unique advising sessions specifically designed
-      for program participants.'
+    description: Many of the experts in our network of advisors offer unique advising
+      sessions specifically designed for program participants.
     image: "/uploads/advising.jpg"
     at2x_image: "/uploads/advising@2x.jpg"
 ---
+
