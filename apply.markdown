@@ -1,6 +1,7 @@
 ---
 title: Apply
 date: 2016-02-26 17:25:00 -08:00
+position: 1
 ---
 
 Wayfare Labs offers a few [distinct programs](http://wayfarelabs.org/programs) to help you start piloting your idea, launch your organization, and grow your business into sustainable impact. We're currently accepting applications for the Launch program. If you're interested in the Growth program, please [contact us](/contact). The Launch program starts twice per year, in the spring and fall (for more information on the program, [see our details page](/programs)). Here's what to expect when you apply:
