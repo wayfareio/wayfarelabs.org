@@ -29,7 +29,8 @@ features:
       founder. Here are some of the guests we''ve hosted: Christine Nolf, founder
       of Mika; Jessie Simonson and Alli Talley, co-founders of 31 Bits; Kohl Crecelius,
       CEO and co-founder of Krochet Kids International; and many more...'
-    image: 
+    image: "/uploads/dinners.jpg"
+    at2x_image: "/uploads/dinners@2x.jpg"
 page_style: landing
 content_layout: home
 ---
