@@ -1,6 +1,4 @@
 ---
-title: Launch Night
-date: 2016-05-06 13:54:00 -07:00
+layout: "redirect"
+redirect: "http://wayfare.ticketleap.com/wayfare-labs-launch-night-batch-2/"
 ---
-
-Head to launch night. :)
