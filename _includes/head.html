@@ -1,4 +1,7 @@
 <head>
+  <meta charset="utf-8">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
     {% if page.headline %}
       {{ page.headline }} | {{ site.title }}
@@ -8,11 +11,8 @@
       {{ site.title }}
     {% endif %}
   </title>
-  <meta charset="utf-8">
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
+  <!-- link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" -->
   <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
   <link rel="stylesheet" href="/assets/css/main.css">
   <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css"><![endif]-->
