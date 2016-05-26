@@ -33,7 +33,7 @@ The Launch program is all about preparing you to launch your startup. You will b
 * Launch Night preparation and presentation
 
 **Cost:** $10,000 (many payment options available)  
-**Length of Launch Program:** 16 weeks
+**Length of Launch Program:** 16 weeks (Batch 3 starts Aug. 1)
 
 <a href="/apply" class="button huge">Apply Now</a>
 
