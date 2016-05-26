@@ -9,8 +9,8 @@ slogan: A startup incubator for creation-restoring movements.
 benefits:
   description: Wayfare Labs offers [unique programs](http://www.wayfarelabs.org/programs)
     for nonprofit and social good startups. We provide space and support to Christ-following
-    founders so that they can turn their visions into reality. Launch and grow your
-    organization in our community.
+    founders so that they can turn their ideas into reality. Launch and grow your
+    organization in our community!
   list:
   - title: Practical Application
     description: Solidify your business model, raise funds, build an audience, grow
