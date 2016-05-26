@@ -30,11 +30,11 @@ After the interviews are complete, we have extensive conversations about who sho
 **Question: Do you accept for-profits and non-profits?**  
 **Answer:** Yes! While there are valid strategic reasons for choosing either status, we care more about how pursuit of the common good is integrated into your business model than we care about how the government views your entity. We'll even help you decide how to structure your organization if you haven't done it yet.
 
-**Question: Why does the program cost money?**  
+**Question: Why do the programs cost money?**  
 **Answer:** We strive to provide a valuable, personal experience for all our Labbers. That means putting together a killer program backed by a great team---which requires money. Some of that is subsidized by the donations we accept, but we also require startups to pay for the programs as a proof point of their ideas and their grit. Our programs include training on how to raise the funds, so don't be too worried about the cost. If you have questions about how that will work, [contact us](/contact) and tell us about it!
 
 **Question: How do I determine whether or not my startup or my idea is a good fit for this program?**  
-**Answer:** The best way? Fill out and application or [shoot us an email](/contact). Most of the startups we bring into the program are early on in their history. Some are even just an idea written down on a napkin. Others are already piloting their product or service or have even been operating for several years. Most need help with their business models, fundraising, storytelling, and developing their mission and vision. Have a question? We're here to help. [Contact us](/contact)!
+**Answer:** The best way? Fill out and application or [shoot us an email](/contact). Most of the startups we work with are in early stages of their history. Some are even just an idea written down on a napkin. Others are already piloting their product or service or have even been operating for several years. Most need help with their business models, fundraising, storytelling, and developing their mission and vision. Have a question? We're here to help. [Contact us](/contact)!
 
 **Question: May I apply for the Growth program?**  
 **Answer:** Absolutely. The Growth program is customized for each startup, so we'd love to talk with you about your organization and current needs. [Send us a message](/contact), and we'll chat.
