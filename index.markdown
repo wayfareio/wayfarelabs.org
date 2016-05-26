@@ -23,23 +23,22 @@ benefits:
       practices into your daily startup life.
 cta:
   title: Partner with us to launch more creation-restoring movements
-  description: Wayfare Labs is a 501(c)(3) charitable organization<sup>*</sup>. We
-    are fueled by a generous community. Will you consider donating to support our
-    work? Choose from some of our options or give a custom amount. We appreciate your
-    generosity and stewardship!
+  description: Wayfare Labs is a 501(c)3 charitable organization<sup>*</sup>. We are
+    fueled by a generous community. Will you consider donating to support our work?
+    Choose from some of our options or give a custom amount. We appreciate your generosity
+    and stewardship!
 features:
   title: Community Matters. Let Us Introduce You to Ours.
-  description: One of the core components of our program is immersing founders in
-    Christ-centered community. Here are some of the ways you'll engage and interact
-    with our community.
+  description: The foundation of our programs is Christ-centered community. Here are
+    some of the ways you'll engage and interact with our community.
   list:
   - title: Dinners and Events
     description: 'From Founders Dinners to Demo Days to Launch Nights to networking
       events, we provide a range of events in our programs and invite guests to share
-      their wisdom and experience: We''ve hosted Christine Nolf, founder of Mika CDC;
-      artist and entrepreneur, Noah J. Elias; Jessie Simonson and Alli Talley, co-founders
-      of 31 Bits; Kohl Crecelius, CEO and co-founder of Krochet Kids International;
-      and many more...'
+      their wisdom and experience with our founders: We''ve hosted Christine Nolf,
+      founder of Mika CDC; artist and entrepreneur, Noah J. Elias; Jessie Simonson
+      and Alli Talley, co-founders of 31 Bits; Kohl Crecelius, CEO and co-founder
+      of Krochet Kids International; and many more...'
     image: "/uploads/dinners.jpg"
     at2x_image: "/uploads/dinners@2x.jpg"
   - title: Workshops
