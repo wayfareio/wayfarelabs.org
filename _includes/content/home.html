@@ -16,12 +16,12 @@
 <!-- One -->
 <section id="one" class="wrapper">
   <div class="inner">
-    <p>{{ page.benefits.description }}</p>
+    <p>{{ page.benefits.description | markdownify }}</p>
     <ul class="features">
       {% for benefit in page.benefits.list %}
         <li>
           <h3><span>{{ benefit.title }}</span></h3>
-          <p>{{ benefit.description }}</p>
+          {{ benefit.description }}
         </li>
       {% endfor %}
     </ul>
@@ -37,7 +37,7 @@
         <li><a href="https://wayfarelabs.givingfuel.com/general-fund" class="button big">Give Now</a></li>
       </ul>
     </header>
-    <p>{{ page.cta.description }}</p>
+    {{ page.cta.description | markdownify }}
   </div>
 </section>
 
@@ -46,7 +46,7 @@
   <div class="inner">
     <header class="major">
       <h2>{{ page.features.title }}</h2>
-      <p>{{ page.features.description }}</p>
+      {{ page.features.description | markdownify }}
     </header>
     <div class="posts">
       {% for feature in page.features.list %}
@@ -54,7 +54,7 @@
           <div class="image"><img src="{{ feature.image }}" alt="{{ feature.title }}"></div>
           <div class="content">
             <h3>{{ feature.title }}</h3>
-            <p>{{ feature.description }}</p>
+            {{ feature.description | markdownify }}
           </div>
         </section>
       {% endfor %}
