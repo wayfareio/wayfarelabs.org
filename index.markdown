@@ -30,7 +30,7 @@ cta:
 features:
   title: Community Matters. Let Us Introduce You to Ours.
   description: The foundation of our programs is Christ-centered community. Here are
-    some of the ways you'll engage and interact with our community.
+    some of the ways you'll engage and interact at Wayfare Labs.
   list:
   - title: Dinners and Events
     description: 'From Founders Dinners to Demo Days to Launch Nights to networking
@@ -44,8 +44,8 @@ features:
   - title: Workshops
     description: 'Taught by startup founders and experts in their respective fields,
       our workshops cover key topics that startup founders need to address, like:
-      Mission and Vision Formation; Customer Development; Fundraising; Communication;
-      Entity Formation; and more...'
+      How to Test Your Hypotheses; Mission and Vision Formation; Customer Development;
+      Fundraising; Communication; Entity Formation; and Team Leadership.'
     image: "/uploads/workshops.jpg"
     at2x_image: "/uploads/workshops@2x.jpg"
   - title: Coaching
