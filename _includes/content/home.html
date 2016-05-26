@@ -21,7 +21,7 @@
       {% for benefit in page.benefits.list %}
         <li>
           <h3><span>{{ benefit.title }}</span></h3>
-          {{ benefit.description }}
+          {{ benefit.description | markdownify }}
         </li>
       {% endfor %}
     </ul>

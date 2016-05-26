@@ -20,7 +20,7 @@ In our pilot program, we will address questions like:
 
 The Pilot Program starts with a weekend of learning and planning July 15-17. If you're interested, let us know.
 
-<a href="/contact" class="button huge">Inquire Now</a>
+<a href="/pilot" class="button huge">Apply Now</a>
 
 ## Launch
 
