@@ -7,9 +7,9 @@ content_layout: home
 headline: Let's build the world's best future together.
 slogan: A startup incubator for creation-restoring movements.
 benefits:
-  description: Wayfare Labs offers a unique program for nonprofit and social good
-    startups. We provide space and support to Christ-following founders so that they
-    can make their vision a reality. Launch and grow your organization with us.
+  description: Wayfare Labs offers unique programs for nonprofit and social good startups.
+    We provide space and support to Christ-following founders so that they can turn
+    their visions into reality. Launch and grow your organization in our community.
   list:
   - title: Practical Application
     description: Solidify your business model, raise funds, build an audience, grow
@@ -23,20 +23,22 @@ benefits:
 cta:
   title: Partner with us to launch more creation-restoring movements
   description: Wayfare Labs is a 501(c)(3) charitable organization<sup>*</sup>. We
-    thrive based on your generosity. Has God called  you to support Wayfare Labs?
-    Choose from some of our options or give a custom amount. We appreciate your generosity
-    and stewardship!
+    are fueled by a generous community. Will you consider donating to support our
+    work? Choose from some of our options or give a custom amount. We appreciate your
+    generosity and stewardship!
 features:
   title: Community Matters. Let Us Introduce You to Ours.
   description: One of the core components of our program is immersing founders in
     Christ-centered community. Here are some of the ways you'll engage and interact
     with our community.
   list:
-  - title: Founder Dinners
-    description: 'Every Tuesday night, Labbers have an intimate dinner with a Christ-following
-      founder. Here are some of the guests we''ve hosted: Christine Nolf, founder
-      of Mika; Jessie Simonson and Alli Talley, co-founders of 31 Bits; Kohl Crecelius,
-      CEO and co-founder of Krochet Kids International; and many more...'
+  - title: Dinners and Events
+    description: 'From Founders Dinners to Demo Days to Launch Nights to networking
+      events, we provide a range of events in our programs and invite guests to share
+      their wisdom and experience: We''ve hosted Christine Nolf, founder of Mika CDC;
+      artist and entrepreneur, Noah J. Elias; Jessie Simonson and Alli Talley, co-founders
+      of 31 Bits; Kohl Crecelius, CEO and co-founder of Krochet Kids International;
+      and many more...'
     image: "/uploads/dinners.jpg"
     at2x_image: "/uploads/dinners@2x.jpg"
   - title: Workshops
@@ -48,7 +50,7 @@ features:
     at2x_image: "/uploads/workshops@2x.jpg"
   - title: Coaching
     description: Each startup receives a coach who consults with them throughout the
-      course of the program. If you're struggling with a specific topic, these coaches
+      course of their program. If you're struggling with a specific topic, these coaches
       will give you the encouragement and guidance you need to push through it.
     image: "/uploads/coaching.jpg"
     at2x_image: "/uploads/coaching@2x.jpg"
