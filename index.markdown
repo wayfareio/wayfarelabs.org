@@ -17,7 +17,7 @@ benefits:
       your organization, and achieve your vision.
   - title: Emotional Support
     description: Journey alongside experienced experts and passionate entrepreneurs
-      who support you throughout the program.
+      who support you throughout the programs.
   - title: Spiritual Guidance
     description: Learn from other Christ-followers and apply spiritual insights and
       practices into your daily startup life.
