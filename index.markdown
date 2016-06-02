@@ -13,14 +13,15 @@ benefits:
     in our community!
   list:
   - title: Practical Application
-    description: Solidify your business model, raise funds, build an audience, grow
-      your organization, and achieve your vision.
+    description: Pilot and launch your idea. Solidify your business model. Raise funds.
+      Build an audience. Grow your organization. Achieve your vision.
   - title: Emotional Support
     description: Journey alongside experienced experts and passionate entrepreneurs
-      who support you throughout the programs.
+      who care about you, understand the journey you're embarking on, and support
+      you throughout the programs.
   - title: Spiritual Guidance
-    description: Learn from other Christ-followers and apply spiritual insights and
-      practices into your daily startup life.
+    description: Learn from other Christ-followers and integrate spiritual insights
+      and practices into your daily startup life.
 cta:
   title: Partner with us to launch more creation-restoring movements
   description: Wayfare Labs is a 501(c)3 charitable organization<sup>*</sup>. We are
