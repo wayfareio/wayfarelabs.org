@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2016-02-26 17:27:00 -08:00
-position: 5
+position: 6
 ---
 
 <div class="typeform-widget" data-url="https://wayfare.typeform.com/to/dFUr0x" data-text="Contact Form" style="width:100%;height:500px;"></div>
