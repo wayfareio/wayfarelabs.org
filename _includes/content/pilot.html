@@ -40,11 +40,19 @@
       <div class="posts">
         {% for speaker in page.speakers %}
           <section class="post">
-            <div class="image"><img src="{{ speaker.image }}" alt="{{ speaker.name }}"></div>
+            <div class="image">
+              {% if speaker.image %}
+                <img src="{{ speaker.image }}" alt="{{ speaker.name }}">
+              {% else %}
+                <img src="/images/pic01.jpg" alt="{{ speaker.name }}">
+              {% endif %}
+            </div>
             <div class="content">
               <h3>{{ speaker.name }}</h3>
               <p>{{ speaker.title }}, {{ speaker.company }}</p>
-              {{ speaker.bio | markdownify }}
+              {% if speaker.bio_text %}
+                {{ speaker.bio_text | markdownify }}
+              {% endif %}
             </div>
           </section>
         {% endfor %}
