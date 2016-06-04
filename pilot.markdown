@@ -149,6 +149,6 @@ apply: |
   Apply now so we can learn more about you and your idea to build the world's best future!
 ---
 
-Pilot is one of the three programs we offer through Wayfare Labs, and is designed to help you pilot the idea, issue or opportunity that you are passionate about. The Pilot Retreat kickstarts this program, where we will help you create a roadmap for your idea to become a reality within a community of other dreamers, doers, and adventurers for the common good.
+Pilot is one of the three programs we offer through Wayfare Labs, and is designed to help you pilot the world-changing idea that you are passionate about. The Pilot Retreat kick-starts this program, where we help you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
 
-Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting to help you walk away from tangible action steps to reach your viable product. You'll hear from a variety of passionate, credible speakers and founders who have experience in making a sustainable impact on the world.
+The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product. You'll hear from a variety of passionate, credible speakers and founders who have experience in making a sustainable impact in the world.
