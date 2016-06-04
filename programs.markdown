@@ -4,11 +4,11 @@ date: 2016-02-26 17:26:00 -08:00
 position: 2
 ---
 
-Wayfare Labs has a few distinct programs, all created to help startups launch, grow, and transition into sustainability.
+Wayfare Labs has a few distinct programs, all created to help founders pilot minimum viable products or services, launch minimum viable organizations, and grow their organizations into sustainable impact.
 
 ## Pilot
 
-In our pilot program, we will address questions like:
+Our Pilot Program, which kicks off with a weekend conference, is for founders and organizational leaders to learn how to test their ideas and create action plans to successfully pilot those ideas into minimum viability. It is equally beneficial for new organizations and existing organizations thinking about new program, product, or service ideas. We will address questions like:
 
 * How do you clearly articulate your mission?
 * How do you form basic hypotheses?
@@ -18,13 +18,13 @@ In our pilot program, we will address questions like:
 * What metrics should you track?
 * How do you prove and communicate impact?
 
-The Pilot Program starts with a weekend of learning and planning July 15-17. If you're interested, let us know.
+The next Pilot Program starts with a weekend of learning and planning July 15-17. If you're interested, let us know.
 
 <a href="/pilot" class="button huge">Apply Now</a>
 
 ## Launch
 
-The Launch program is all about preparing you to launch your startup. You will build and refine your business model, develop a pitch deck and start raising funds, and learn how to become a leader and tell your story. And throughout, our focus is on providing you the practical, emotional, and spiritual support you need to launch well.
+The Launch Program is all about guiding you to launch your startup. You will build and refine your business model, develop a pitch deck and raise funds, and learn how to become a leader and tell your story. And throughout, our focus is on providing you the practical, emotional, and spiritual support you need to launch well.
 
 * Weekly dinners with successful startup founders
 * Three intensive work sessions (including workshops) per week
@@ -33,7 +33,7 @@ The Launch program is all about preparing you to launch your startup. You will b
 * Launch Night preparation and presentation
 
 **Cost:** $10,000 (many payment options available)  
-**Length of Launch Program:** 16 weeks (Batch 3 starts Aug. 1)
+**Length of Launch Program:** 15 weeks (Batch 3 starts Aug. 1)
 
 <a href="/apply" class="button huge">Apply Now</a>
 
