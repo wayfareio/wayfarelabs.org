@@ -21,18 +21,29 @@
 
     <div class="content">
       <a id="overview"></a>
-      <a href="#" class="image fit"><img src="/images/pic07.jpg" alt=""></a>
+      <div class="image fit"><img src="{{ page.overview.image }}"></div>
       <h2>Overview</h2>
       {{ content }}
 
       <hr>
       <a id="details"></a>
       <h2>Details</h2>
-      <ul>
+      <div class="posts">
         {% for detail in page.details %}
-          <li>{{ detail }}</li>
+          <section class="post">
+            <div class="image">
+              {% if detail.image %}
+                <img src="{{ detail.image }}">
+              {% else %}
+                <img src="/images/pic01.jpg">
+              {% endif %}
+            </div>
+            <div class="content">
+              {{ detail.text | markdownify }}
+            </div>
+          </section>
         {% endfor %}
-      </ul>
+      </div>
 
       <hr>
       <a id="speakers"></a>
@@ -88,7 +99,7 @@
       <a id="cost"></a>
       <h2>Cost</h2>
       {{ page.cost.description | markdownify }}
-      <div class="prices">
+      <div class="prices row">
         {% for price in page.cost.prices %}
           {% capture nowunix %}{{ 'now' | date: "%Y%m%d" }}{% endcapture %}
           {% assign nowunix = nowunix | plus: 0 %}
@@ -96,7 +107,8 @@
           {% assign end_date = end_date | plus: 0 %}
           {% if end_date >= nowunix %}
             <p>
-              {{ price.start_date | date: "%B %-d" }}&ndash;{{ price.end_date | date: "%B %-d" }}<br>
+              <strong>{{ price.start_date | date: "%B %-d" }}&ndash;{{ price.end_date | date: "%B %-d" }}</strong>
+              <br>
               {% if price.price != 947 %}
                 <s>$947</s>
               {% endif %}
@@ -110,7 +122,7 @@
       <a id="apply"></a>
       <h2>Apply</h2>
       {{ page.apply | markdownify }}
-      <a href="https://wayfare.typeform.com/to/ahPimp" class="button huge">Apply Now</a>
+      <a href="https://wayfare.typeform.com/to/ahPimp" class="button huge">Get Started</a>
     </div>
 
     <div class="sidebar not-xsmall">
