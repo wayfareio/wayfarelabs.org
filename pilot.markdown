@@ -8,10 +8,13 @@ overview:
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
-  text: Five complimentary, hand-crafted, family-style meals
+  text: 'You can''t get much done on an empty stomach so we''ll provide five organic
+    family style meals that will keep you fueled throughout the retreat. '
 - image: "/uploads/pilot-workbook.jpg"
   at2x_image: "/uploads/pilot-workbook@2x.jpg"
-  text: Comprehensive weekend workbook, Wayfare journal and reading material
+  text: You'll receive a comprehensive workbook covering retreat topics and action
+    steps for when you leave, a Wayfare journal to take notes throughout the weekend,
+    and reading material to help further guide you on your journey.
 - image: "/uploads/pilot-speakers.jpg"
   at2x_image: "/uploads/pilot-speakers@2x.jpg"
   text: Ten invaluable speakers, all with relevant experience in building sustainable,
@@ -115,22 +118,22 @@ cost:
   description: |
     Apply now and pay a $47 deposit to lock in the price of the program. The deposit is fully refundable up until one week before the retreat (July 8).
   prices:
-  - start_date: 2016-06-06 00:00:00.000000000 Z
-    end_date: 2016-06-16 00:00:00.000000000 Z
+  - start_date: 2016-06-05 17:00:00 -07:00
+    end_date: 2016-06-15 17:00:00 -07:00
     price: 647
-  - start_date: 2016-06-17 00:00:00.000000000 Z
-    end_date: 2016-06-23 00:00:00.000000000 Z
+  - start_date: 2016-06-16 17:00:00 -07:00
+    end_date: 2016-06-22 17:00:00 -07:00
     price: 747
-  - start_date: 2016-06-24 00:00:00.000000000 Z
-    end_date: 2016-06-30 00:00:00.000000000 Z
+  - start_date: 2016-06-23 17:00:00 -07:00
+    end_date: 2016-06-29 17:00:00 -07:00
     price: 847
-  - start_date: 2016-07-01 00:00:00.000000000 Z
-    end_date: 2016-07-14 00:00:00.000000000 Z
+  - start_date: 2016-06-30 17:00:00 -07:00
+    end_date: 2016-07-13 17:00:00 -07:00
     price: 947
 apply: |
   Apply now so we can learn more about you and your idea to build the world's best future!
 ---
 
-Pilot is one of the three programs we offer through Wayfare Labs, and is designed to help you pilot the world-changing idea that you are passionate about. The Pilot Retreat kick-starts this program, where we help you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
+Pilot is one of the three programs offered through Wayfare Labs, and is designed to help you pilot the world-changing idea that you are passionate about. The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
 
-The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product. You'll hear from a variety of passionate, credible speakers and founders who have experience in making a sustainable impact in the world.
+The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product or service. You'll hear from a variety of passionate, credible speakers and founders who have extensive experience in startup, social enterprise, and non-profit work. 
