@@ -8,27 +8,29 @@ overview:
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
-  text: 'You can''t get much done on an empty stomach so we''ll provide five organic
+  text: 'You can''t get much done on an empty stomach so you''ll experience five organic
     family style meals that will keep you fueled throughout the retreat. '
 - image: "/uploads/pilot-workbook.jpg"
   at2x_image: "/uploads/pilot-workbook@2x.jpg"
   text: You'll receive a comprehensive workbook covering retreat topics and action
-    steps for when you leave, a Wayfare journal to take notes throughout the weekend,
-    and reading material to help further guide you on your journey.
+    steps for when you leave, reading material, and a Wayfare journal.
 - image: "/uploads/pilot-speakers.jpg"
   at2x_image: "/uploads/pilot-speakers@2x.jpg"
-  text: Ten invaluable speakers, all with relevant experience in building sustainable,
-    impactful organizations
+  text: 'Ten speakers presenting on various relevant topics, all geared toward helping
+    you build sustainable and impactful organizations '
 - image: "/uploads/pilot-community.jpg"
   at2x_image: "/uploads/pilot-community@2x.jpg"
-  text: Collaborative and intentional interaction with other participants
+  text: 'Good ideas become great in the context of community. Guided intentional interaction
+    with other participants will be encouraged; now and in the months to come. '
 - image: "/uploads/pilot-follow-up.jpg"
   at2x_image: "/uploads/pilot-follow-up@2x.jpg"
-  text: Monthly follow-up guidance and support for up to six months, post Pilot Retreat
+  text: 'Getting started is the first step. But what next? Monthly follow-up guidance
+    and support from our Wayfare Labs team for up to six months after Pilot Retreat. '
 - image: "/uploads/pilot-wayfare.jpg"
   at2x_image: "/uploads/pilot-wayfare@2x.jpg"
-  text: Three-month FREE Wayfare membership (valued at $47/month, this includes 3
-    free hours/month of coworking)
+  text: Come work alongside other world changers! You'll receive a three-month FREE
+    Wayfare membership valued at $47/month (includes a credit towards coworking or
+    meeting rooms with additional hours available for purchase at a discounted rate)
 - image: "/uploads/pilot-box.jpg"
   at2x_image: "/uploads/pilot-box@2x.jpg"
   text: Swag box! This part is a surprise... but you can be sure that these fun, hand-curated
@@ -100,7 +102,7 @@ schedule:
   - Debrief and overview
 menu:
   description: |
-    There's no better way to process ideas and build community than over good food. Pilot Retreat will be catered by Meat & Vegetables Trading Co. (MVTC), a give-back catering service founded by Jennifer Saunders, who piloted and launched her organization through Wayfare Labs. For every meal catered, MVTC serves one meal to families experiencing transitional homelessness. MVTC serves nostalgic comfort foods made with organic ingredients. Below is our hand-selected menu for Pilot Retreat!
+    There's no better way to process ideas and build community than over good food. Pilot Retreat will be catered by Meat & Vegetables Trading Co. (MVTC), a give-back catering service founded by Jennifer Saunders, who piloted and launched her organization through Wayfare Labs. For every meal catered, MVTC serves one meal to families experiencing transitional homelessness. MVTC serves nostalgic comfort foods made with organic ingredients. Below is the hand-selected menu for Pilot Retreat!
 
     _Food restrictions or allergies? Don't worry, we left room for you to include those on your application so we can be sure to cater your meals accordingly!_
   meals:
@@ -116,7 +118,7 @@ menu:
     avocado isn't extra here)"
 cost:
   description: |
-    Apply now and pay a $47 deposit to lock in the price of the program. The deposit is fully refundable up until one week before the retreat (July 8).
+    Apply now and pay a $47 deposit to lock in the price of the program based on today's date. The deposit is fully refundable up until one week before the retreat (July 8).
   prices:
   - start_date: 2016-06-05 17:00:00 -07:00
     end_date: 2016-06-15 17:00:00 -07:00
