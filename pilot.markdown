@@ -14,7 +14,8 @@ details:
   text: Comprehensive weekend workbook, Wayfare journal and reading material
 - image: "/uploads/pilot-speakers.jpg"
   at2x_image: "/uploads/pilot-speakers@2x.jpg"
-  text: Ten invaluable speakers, all with relevant experience in building sustainable, impactful organizations
+  text: Ten invaluable speakers, all with relevant experience in building sustainable,
+    impactful organizations
 - image: "/uploads/pilot-community.jpg"
   at2x_image: "/uploads/pilot-community@2x.jpg"
   text: Collaborative and intentional interaction with other participants
@@ -23,45 +24,47 @@ details:
   text: Monthly follow-up guidance and support for up to six months, post Pilot Retreat
 - image: "/uploads/pilot-wayfare.jpg"
   at2x_image: "/uploads/pilot-wayfare@2x.jpg"
-  text: Three-month FREE Wayfare membership (valued at $47/month, this includes 3 free hours/month of coworking)
+  text: Three-month FREE Wayfare membership (valued at $47/month, this includes 3
+    free hours/month of coworking)
 - image: "/uploads/pilot-box.jpg"
   at2x_image: "/uploads/pilot-box@2x.jpg"
-  text: Swag box! This part is a surprise... but you can be sure that these fun, hand-curated products will be useful to your journey as a founder
+  text: Swag box! This part is a surprise... but you can be sure that these fun, hand-curated
+    products will be useful to your journey as a founder
 speakers:
 - name: Jay Sherer
   company: Reclamation Society
   title: Founder
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-jay-sherer.jpg"
 - name: Joel Beukelman
   company: Google
   title: UX Designer on Android
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-joel-beukelman.jpg"
 - name: Bailey Van Tassel
   company: Abel Impact
   title: Founder
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-bailey-van-tassel.jpg"
 - name: Curt Rollison
   company: ASICS America
   title: Sr. Manager, Corporate Strategy
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-curt-rollison.jpg"
 - name: Paul Bresenden
   company: 454 Creative
   title: President & Senior Creative Director
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-paul-bresenden.jpg"
 - name: Jeff Tanner
   company: Wayfare Labs
   title: Executive Director
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-jeff-tanner.jpg"
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-brandon-arbini.jpg"
 schedule:
 - title: Friday Night
