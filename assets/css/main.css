@@ -842,6 +842,20 @@ body.is-mobile .wrapper.cta { background-attachment: scroll; }
 @media screen and (max-width: 736px) { .wrapper { padding: 2.5em 2em 0.5em 2em ; } }
 @media screen and (max-width: 480px) { .wrapper { padding: 2.5em 1.5em 0.5em 1.5em ; } }
 
+.pilot-nav a { cursor: pointer; }
+
+ul.schedule li { border: 0; margin: 0; padding: 0; }
+ul.schedule li h3 { min-width: 13rem; width: 13rem; }
+ul.schedule li p { width: auto; }
+ul.schedule li ul.day-schedule li { border: 0; margin: 1rem 0; padding: 0; }
+ul.schedule li ul.day-schedule li:first-child { margin-top: 0.4rem; }
+ul.schedule li ul.day-schedule li p { margin: 0; padding: 0; }
+
+ul.menu li p { margin: 0; padding: 0; }
+
+.prices s { color: maroon; }
+.prices > * { margin: 0 0 2rem 0; width: 50%; float: left; }
+
 /* Header */
 body { padding-top: 3.5em; }
 body.landing { padding-top: 0; }
