@@ -14,28 +14,32 @@ details:
 - image: "/uploads/pilot-workbook.jpg"
   at2x_image: "/uploads/pilot-workbook@2x.jpg"
   text: You'll receive a comprehensive workbook covering retreat topics and action
-    steps for when you leave, reading material, and a Wayfare journal.
+    steps for when you leave, additional reading material, and a Wayfare journal.
 - image: "/uploads/pilot-speakers.jpg"
   at2x_image: "/uploads/pilot-speakers@2x.jpg"
-  text: 'Ten speakers presenting on various relevant topics, all geared toward helping
-    you build sustainable and impactful organizations '
+  text: 'Ten speakers will be presenting on various relevant topics, all geared toward
+    helping you build a sustainable and impactful organization.  '
 - image: "/uploads/pilot-community.jpg"
   at2x_image: "/uploads/pilot-community@2x.jpg"
-  text: 'Good ideas become great in the context of community. Guided intentional interaction
-    with other participants will be encouraged; now and in the months to come. '
+  text: 'Good ideas become great in the context of community. You will have opportunities
+    for intentional interaction with other participants at the retreat and in the
+    months to come. '
 - image: "/uploads/pilot-follow-up.jpg"
   at2x_image: "/uploads/pilot-follow-up@2x.jpg"
-  text: Getting started is the first step. But what's next? Monthly follow-up guidance
-    and support from our Wayfare Labs team for up to six months after Pilot Retreat.
+  text: 'Getting started is the first step. But what''s next? You''ll have access
+    to monthly follow-up sessions with the Wayfare Labs team and your fellow Pilot
+    Retreat attendees for six months after Pilot Retreat as you continue to test and
+    refine your idea. '
 - image: "/uploads/pilot-wayfare.jpg"
   at2x_image: "/uploads/pilot-wayfare@2x.jpg"
   text: Come work alongside other world changers! You'll receive a three-month FREE
-    Wayfare membership valued at $47/month (includes a credit towards coworking or
-    meeting rooms with additional hours available for purchase at a discounted rate)
+    Wayfare membership valued at $47/month (this includes a credit towards coworking
+    or meeting rooms with additional hours available for purchase at a discounted
+    rate).
 - image: "/uploads/pilot-box.jpg"
   at2x_image: "/uploads/pilot-box@2x.jpg"
-  text: Swag box! This part is a surprise... but you can be sure that these fun, hand-curated
-    products will be useful to your journey as a founder
+  text: 'Swag box! This part is a surprise... but you can be sure that these fun,
+    hand-curated products will be useful to you on your journey as a founder. '
 speakers:
 - name: Jay Sherer
   company: Reclamation Society
