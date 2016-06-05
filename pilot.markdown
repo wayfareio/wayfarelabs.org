@@ -8,8 +8,8 @@ overview:
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
-  text: 'You can''t get much done on an empty stomach so you''ll experience five organic
-    family style meals that will keep you fueled throughout the retreat. '
+  text: 'You can''t get much done on an empty stomach so you''ll experience five, organic,
+    family-style meals that will keep you fueled throughout the retreat (and unlimited coffee too! What?!).'
 - image: "/uploads/pilot-workbook.jpg"
   at2x_image: "/uploads/pilot-workbook@2x.jpg"
   text: You'll receive a comprehensive workbook covering retreat topics and action
@@ -24,8 +24,8 @@ details:
     with other participants will be encouraged; now and in the months to come. '
 - image: "/uploads/pilot-follow-up.jpg"
   at2x_image: "/uploads/pilot-follow-up@2x.jpg"
-  text: 'Getting started is the first step. But what next? Monthly follow-up guidance
-    and support from our Wayfare Labs team for up to six months after Pilot Retreat. '
+  text: "Getting started is the first step. But what's next? Monthly follow-up guidance
+    and support from our Wayfare Labs team for up to six months after Pilot Retreat."
 - image: "/uploads/pilot-wayfare.jpg"
   at2x_image: "/uploads/pilot-wayfare@2x.jpg"
   text: Come work alongside other world changers! You'll receive a three-month FREE
@@ -39,37 +39,37 @@ speakers:
 - name: Jay Sherer
   company: Reclamation Society
   title: Founder
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-jay-sherer.jpg"
 - name: Joel Beukelman
   company: Google
   title: UX Designer on Android
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-joel-beukelman.jpg"
 - name: Bailey Van Tassel
   company: Abel Impact
   title: Founder
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-bailey-van-tassel.jpg"
 - name: Curt Rollison
   company: ASICS America
   title: Sr. Manager, Corporate Strategy
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-curt-rollison.jpg"
 - name: Paul Bresenden
   company: 454 Creative
   title: President & Senior Creative Director
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-paul-bresenden.jpg"
 - name: Jeff Tanner
   company: Wayfare Labs
   title: Executive Director
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-jeff-tanner.jpg"
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-brandon-arbini.jpg"
 schedule:
 - title: Friday Night
@@ -138,4 +138,4 @@ apply: |
 
 Pilot is one of the three programs offered through Wayfare Labs, and is designed to help you pilot the world-changing idea that you are passionate about. The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
 
-The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product or service. You'll hear from a variety of passionate, credible speakers and founders who have extensive experience in startup, social enterprise, and non-profit work. 
+The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product or service. You'll hear from a variety of passionate, credible speakers and founders who have extensive experience in startup, social enterprise, and non-profit work.
