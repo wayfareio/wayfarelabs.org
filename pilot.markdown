@@ -76,7 +76,11 @@ speakers:
 - name: Jeff Tanner
   company: Wayfare Labs
   title: Executive Director
-  bio_text: 
+  bio_text: For Jeff, a life of adventure is exploring both new lands and new ideas.
+    It’s envisioning the future of communities, of work, of play. And it’s about starting
+    and building.As cofounder of coworking community, Wayfare, and startup incubator,
+    Wayfare Labs, Jeff serves as a guide for numerous startup founders who are launching
+    their ideas into viable, scalable movements for the common good.
   image: "/uploads/pilot-jeff-tanner.jpg"
 - name: Brandon Arbini
   company: Wayfare
