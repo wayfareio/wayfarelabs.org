@@ -44,7 +44,11 @@ speakers:
 - name: Jay Sherer
   company: Reclamation Society
   title: Founder
-  bio_text: 
+  bio_text: Jay Sherer is the executive director of the Reclamation Society, a nonprofit
+    startup. He has co-founded several companies, including Hello Agent, which produced
+    a predictive analytics app for real estate agents. Before starting the Reclamation
+    Society in 2016, he also served as a fractional CMO for several startups and as
+    a director of marketing for a large credit union in Southern California.
   image: "/uploads/pilot-jay-sherer.jpg"
 - name: Joel Beukelman
   company: Google
@@ -54,7 +58,10 @@ speakers:
 - name: Bailey Van Tassel
   company: Abel Impact
   title: Founder
-  bio_text: 
+  bio_text: 'Bailey Van Tassel is the Founder of Abel Impact, a boutique consulting
+    firm that helps businesses find their social mission and connect with charities
+    to make a maximum impact. She has a deep love for macaroni and cheese, cowboy
+    boots, and stationary, and dreams of having backyard chickens someday. '
   image: "/uploads/pilot-bailey-van-tassel.jpg"
 - name: Curt Rollison
   company: ASICS America
@@ -141,6 +148,6 @@ apply: |
   Apply now so we can learn more about you and your idea to build the world's best future!
 ---
 
-Pilot is one of the three programs offered through Wayfare Labs, and is designed to help you pilot the world-changing idea that you are passionate about. The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
+Pilot is one of the three programs offered through Wayfare Labs, and is designed to help you pilot the world-changing idea that you are passionate about. Whether you are a founder with a brand new idea, or you are piloting a new product within your existing organization, Pilot is designed specifically for you.The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
 
 The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product or service. You'll hear from a variety of passionate, credible speakers and founders who have extensive experience in startup, social enterprise, and non-profit work.
