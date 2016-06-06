@@ -136,8 +136,7 @@ cost:
   description: "Apply now and pay a $47 deposit to lock in the price of the program
     based on today's date. The deposit is fully refundable up until one week before
     the retreat (July 8).\n\nIf you're working on your idea with others, sign your
-    team members up for Pilot & receive an 80% discount on enrollment for each added
-    member. "
+    team up for Pilot & receive an 80% discount on enrollment for each added member. "
   prices:
   - start_date: 2016-06-05 17:00:00 -07:00
     end_date: 2016-06-15 17:00:00 -07:00
