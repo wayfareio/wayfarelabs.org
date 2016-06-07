@@ -3,12 +3,8 @@ title: Pilot
 position: 3
 content_layout: pilot
 overview:
-- image: "/uploads/pilot-overview1.jpg"
-  at2x_image: "/uploads/pilot-overview1@2x.jpg"
-- image: "/uploads/pilot-overview2.jpg"
-  at2x_iamge: "/uploads/pilot-overview2@2x.jpg"
-- image: "/uploads/pilot-overview3.jpg"
-  at2x_iamge: "/uploads/pilot-overview3@2x.jpg"
+  image: "/uploads/pilot-overview.jpg"
+  at2x_image: "/uploads/pilot-overview@2x.jpg"
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
@@ -75,7 +71,11 @@ speakers:
 - name: Paul Bresenden
   company: 454 Creative
   title: President & Senior Creative Director
-  bio_text: 
+  bio_text: Paul is an industry veteran who has designed and strategized for leading
+    organizations around the globe. Paul leads 454 Creative with his broad expertise
+    in web development, technology, strategy, social media, advertising, and production
+    environments. Paul helps businesses connect marketing, sales, and technology to
+    produce measurable and effective results for success.
   image: "/uploads/pilot-paul-bresenden.jpg"
 - name: Jeff Tanner
   company: Wayfare Labs
@@ -125,8 +125,6 @@ menu:
     There's no better way to process ideas and build community than over good food. Pilot Retreat will be catered by Meat & Vegetables Trading Co. (MVTC), a give-back catering service founded by Jennifer Saunders, who piloted and launched her organization through Wayfare Labs. For every meal catered, MVTC serves one meal to families experiencing transitional homelessness. MVTC serves nostalgic comfort foods made with organic ingredients. Below is the hand-selected menu for Pilot Retreat!
 
     _Food restrictions or allergies? Don't worry, we left room for you to include those on your application so we can be sure to cater your meals accordingly!_
-  image: "/uploads/pilot-yummy-meals.jpg"
-  at2x_image: "/uploads/pilot-yummy-meals@2x.jpg"
   meals:
   - "**Friday Dinner**: Pulled Pork sliders on brioche bun, coleslaw, corn on the
     cob"
