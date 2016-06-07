@@ -91,6 +91,11 @@
       <a id="menu"></a>
       <h2>Menu</h2>
       {{ page.menu.description | markdownify }}
+      <div class="image fit">
+        <img src="{{ page.menu.image }}">
+      </div>
+      <p><small><em>By the way, this is a photo of an actual meal created by the chef catering the event! So good...</em></small></p>
+
       <ul class="menu">
         {% for meal in page.menu.meals %}
           <li>{{ meal | markdownify }}</li>
