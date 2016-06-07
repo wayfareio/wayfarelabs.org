@@ -53,7 +53,7 @@ speakers:
 - name: Joel Beukelman
   company: Google
   title: UX Designer on Android
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-joel-beukelman.jpg"
 - name: Bailey Van Tassel
   company: Abel Impact
@@ -66,12 +66,12 @@ speakers:
 - name: Curt Rollison
   company: ASICS America
   title: Sr. Manager, Corporate Strategy
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-curt-rollison.jpg"
 - name: Paul Bresenden
   company: 454 Creative
   title: President & Senior Creative Director
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-paul-bresenden.jpg"
 - name: Jeff Tanner
   company: Wayfare Labs
@@ -85,7 +85,7 @@ speakers:
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-brandon-arbini.jpg"
 schedule:
 - title: Friday Night
