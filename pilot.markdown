@@ -75,7 +75,7 @@ speakers:
 - name: Curt Rollison
   company: ASICS America
   title: Sr. Manager, Corporate Strategy
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-curt-rollison.jpg"
 - name: Paul Bresenden
   company: 454 Creative
@@ -98,7 +98,7 @@ speakers:
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-brandon-arbini.jpg"
 schedule:
 - title: Friday Night
