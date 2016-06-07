@@ -53,7 +53,12 @@ speakers:
 - name: Joel Beukelman
   company: Google
   title: UX Designer on Android
-  bio_text: 
+  bio_text: Over the past 5 years, Joel has had the opportunity to contribute to variety
+    of products/apps from early-stage startups to global mobile applications. Joel’s
+    success at AppStack and Netflix fed his current role as Senior Interaction Designer.
+    Balancing an enjoyment of family, craft beer, metal/punk and tattoos, he’s committed
+    to Google’s Android Auto team where they are defining new safe ways to experience
+    technology in the car
   image: "/uploads/pilot-joel-beukelman.jpg"
 - name: Bailey Van Tassel
   company: Abel Impact
@@ -140,7 +145,11 @@ cost:
   description: "Apply now and pay a $47 deposit to lock in the price of the program
     based on today's date. The deposit is fully refundable up until one week before
     the retreat (July 8).\n\nIf you're working on your idea with others, sign your
-    team up for Pilot & receive an 80% discount on enrollment for each added member. "
+    team up for Pilot & receive an 80% discount on enrollment for each added member.
+    \n\nThis includes **five meals**, **books and materials**, **inspiring and credible
+    speakers**, **three-month Wayfare membership**, **monthly follow-up sessions for
+    six months after Pilot Retreat**, **unlimited coffee and community**, and **cool
+    swag**.  \n\n"
   prices:
   - start_date: 2016-06-05 17:00:00 -07:00
     end_date: 2016-06-15 17:00:00 -07:00
