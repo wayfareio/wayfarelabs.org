@@ -3,9 +3,7 @@
 
     <header class="major">
       <h2>Pilot Program</h2>
-      <p>
-        Starts July 15&ndash;17 @ <a href="http://wayfare.io">Wayfare HQ</a>, a welcoming, thoughtfully-designed coworking space for world changers located in Costa Mesa, California.
-      </p>
+      <p>Starts July 15&ndash;17 @ <a href="http://wayfare.io">Wayfare HQ</a>, a welcoming, thoughtfully-designed coworking space for world changers located in Costa Mesa, California.</p>
     </header>
 
     <section class="pilot-nav only-xsmall">
@@ -21,7 +19,11 @@
 
     <div class="content">
       <a id="overview"></a>
-      <div class="image fit"><img src="{{ page.overview.image }}"></div>
+      <div class="hero-slider image fit">
+        {% for overview in page.overview %}
+          <div><img src="{{ overview.image }}"></div>
+        {% endfor %}
+      </div>
       <h2>Overview</h2>
       {{ content }}
 

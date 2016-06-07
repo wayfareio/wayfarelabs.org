@@ -123,6 +123,16 @@
 			  }
 			  $("html, body").animate({ scrollTop: scrollTop }, 650);
 			});
+
+      $(document).ready(function(){
+        $('.hero-slider').slick({
+          arrows: false,
+          dots: true,
+          infinite: true,
+          autoplay: true,
+          autoplaySpeed: 2000,
+        });
+      });
 	});
 
 })(jQuery);
