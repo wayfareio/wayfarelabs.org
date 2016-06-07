@@ -3,8 +3,12 @@ title: Pilot
 position: 3
 content_layout: pilot
 overview:
-  image: "/uploads/pilot-overview.jpg"
-  at2x_image: "/uploads/pilot-overview@2x.jpg"
+- image: "/uploads/pilot-overview1.jpg"
+  at2x_image: "/uploads/pilot-overview1@2x.jpg"
+- image: "/uploads/pilot-overview2.jpg"
+  at2x_iamge: "/uploads/pilot-overview2@2x.jpg"
+- image: "/uploads/pilot-overview3.jpg"
+  at2x_iamge: "/uploads/pilot-overview3@2x.jpg"
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
@@ -71,7 +75,7 @@ speakers:
 - name: Curt Rollison
   company: ASICS America
   title: Sr. Manager, Corporate Strategy
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-curt-rollison.jpg"
 - name: Paul Bresenden
   company: 454 Creative
@@ -94,7 +98,7 @@ speakers:
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
-  bio_text: 
+  bio_text:
   image: "/uploads/pilot-brandon-arbini.jpg"
 schedule:
 - title: Friday Night
@@ -130,6 +134,8 @@ menu:
     There's no better way to process ideas and build community than over good food. Pilot Retreat will be catered by Meat & Vegetables Trading Co. (MVTC), a give-back catering service founded by Jennifer Saunders, who piloted and launched her organization through Wayfare Labs. For every meal catered, MVTC serves one meal to families experiencing transitional homelessness. MVTC serves nostalgic comfort foods made with organic ingredients. Below is the hand-selected menu for Pilot Retreat!
 
     _Food restrictions or allergies? Don't worry, we left room for you to include those on your application so we can be sure to cater your meals accordingly!_
+  image: "/uploads/pilot-yummy-meals.jpg"
+  at2x_image: "/uploads/pilot-yummy-meals@2x.jpg"
   meals:
   - "**Friday Dinner**: Pulled Pork sliders on brioche bun, coleslaw, corn on the
     cob"
