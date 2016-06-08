@@ -100,6 +100,17 @@ speakers:
   title: CEO
   bio_text: 
   image: "/uploads/pilot-brandon-arbini.jpg"
+- name: 'Joanna Waterfall '
+  company: 'Yellow Collective '
+  title: 'Founder '
+  bio_text: Joanna Waterfall is the Founder of Yellow Co., an organization that exists
+    to empower creative women to become agents of good. With a degree in graphic design
+    and digital media and a background in branding, Joanna believes that creativity
+    and business should go hand in hand. She has been featured in publications such
+    as The Huffington Post, LA Lady Magazine, Career Contessa, Belong Magazine and
+    others. She is motivated by the belief that women can change the world through
+    stepping into what makes them come alive.
+  image: "/Users/adrianneaustin/Desktop/unnamed (1).jpg"
 schedule:
 - title: Friday Night
   activities:
