@@ -75,7 +75,9 @@ speakers:
 - name: Curt Rollison
   company: ASICS America
   title: Sr. Manager, Corporate Strategy
-  bio_text: 
+  bio_text: |-
+    Curt is a dot connector, thoughtful storyteller, and empathetic strategist who's passionate about helping brands find product market fit and tell a compelling story.
+    As a strategist and designer, Curt has collaborated with global firms like Nike, Target, Citrix, and Sony to unearth consumer needs and design innovative business solutions. He's currently the head of strategy for Asics, where he's helping the footwear brand to redefine itself amidst a rapidly changing retail landscape. Curt holds a B.S. in Management Science from UC San Diego, and an MBA in Design Strategy from the California College of the Arts in San Francisco.
   image: "/uploads/pilot-curt-rollison.jpg"
 - name: Paul Bresenden
   company: 454 Creative
