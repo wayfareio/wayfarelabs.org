@@ -3,12 +3,9 @@ title: Pilot
 position: 3
 content_layout: pilot
 overview:
-- image: "/uploads/pilot-overview1.jpg"
-  at2x_image: "/uploads/pilot-overview1@2x.jpg"
+- 
 - image: "/uploads/pilot-overview2.jpg"
   at2x_iamge: "/uploads/pilot-overview2@2x.jpg"
-- image: "/uploads/pilot-overview3.jpg"
-  at2x_iamge: "/uploads/pilot-overview3@2x.jpg"
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
