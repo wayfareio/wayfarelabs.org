@@ -110,7 +110,7 @@ speakers:
     as The Huffington Post, LA Lady Magazine, Career Contessa, Belong Magazine and
     others. She is motivated by the belief that women can change the world through
     stepping into what makes them come alive.
-  image: "/Users/adrianneaustin/Desktop/unnamed (1).jpg"
+  image: "/uploads/unnamed (1).jpg"
 schedule:
 - title: Friday Night
   activities:
