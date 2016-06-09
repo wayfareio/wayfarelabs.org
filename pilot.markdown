@@ -96,11 +96,11 @@ speakers:
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
-  bio_text:
+  bio_text: 
   image: "/uploads/pilot-brandon-arbini.jpg"
-- name: 'Joanna Waterfall'
-  company: 'Yellow Collective'
-  title: 'Founder'
+- name: Joanna Waterfall
+  company: Yellow Collective
+  title: Founder
   bio_text: Joanna Waterfall is the Founder of Yellow Co., an organization that exists
     to empower creative women to become agents of good. With a degree in graphic design
     and digital media and a background in branding, Joanna believes that creativity
