@@ -5,7 +5,7 @@ content_layout: pilot
 overview:
 - 
 - image: "/uploads/pilot-overview2.jpg"
-  at2x_iamge: "/uploads/pilot-overview2@2x.jpg"
+  at2x_image: "/uploads/pilot-overview2@2x.jpg"
 details:
 - image: "/uploads/pilot-meals.jpg"
   at2x_image: "/uploads/pilot-meals@2x.jpg"
@@ -18,8 +18,8 @@ details:
     steps for when you leave, additional reading material, and a Wayfare journal.
 - image: "/uploads/pilot-speakers.jpg"
   at2x_image: "/uploads/pilot-speakers@2x.jpg"
-  text: 'Ten speakers will be presenting on various relevant topics, all geared toward
-    helping you build a sustainable and impactful organization.  '
+  text: 'Ten speakers will be presenting on a series of relevant topics, all geared
+    toward helping you build a sustainable and impactful organization.  '
 - image: "/uploads/pilot-community.jpg"
   at2x_image: "/uploads/pilot-community@2x.jpg"
   text: 'Good ideas become great in the context of community. You will have opportunities
