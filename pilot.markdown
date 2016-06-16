@@ -173,7 +173,7 @@ cost:
     \n\nThis includes **five meals**, **books and materials**, **inspiring and credible
     speakers**, **three-month Wayfare membership**, **monthly follow-up sessions for
     six months after Pilot Retreat**, **unlimited coffee and community**, and **cool
-    swag**.  \n\n"
+    swag**."
   prices:
   - start_date: 2016-06-05 17:00:00 -07:00
     end_date: 2016-06-22 17:00:00 -07:00
