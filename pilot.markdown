@@ -41,6 +41,14 @@ details:
   text: 'Swag box! This part is a surprise... but you can be sure that these fun,
     hand-curated products will be useful to you on your journey as a founder. '
 speakers:
+- name: KC Holiday
+  company: QALO
+  title: Founder
+  bio_text: KC's expertise lies in analyzing business processes that propel a company from
+    passion to profit. Particularly suited to a business model that finds balance in both
+    creative and execution, KC also makes that balance work after hours, enjoying creative
+    writing and conversely, the crazy competitiveness of Crossfit.
+  image: "/uploads/pilot-kc.jpg"
 - name: Jay Sherer
   company: Reclamation Society
   title: Founder
