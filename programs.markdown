@@ -4,7 +4,7 @@ date: 2016-02-26 17:26:00 -08:00
 position: 2
 ---
 
-Wayfare Labs has a few distinct programs, all created to help founders pilot minimum viable products or services, launch minimum viable organizations, and grow their organizations into sustainable impact.
+Wayfare Labs has three distinct programs, all created to help founders pilot minimum viable products or services, launch minimum viable organizations, and grow their organizations into sustainable impact.
 
 ## Pilot
 
@@ -18,7 +18,7 @@ Our Pilot Program, which kicks off with a weekend conference, is for founders an
 * What metrics should you track?
 * How do you prove and communicate impact?
 
-The next Pilot Program starts with a weekend of learning and planning July 15-17. If you're interested, let us know.
+The next Pilot Program starts with a weekend of learning and planning July 15-17. If you're interested, apply today.
 
 <a href="/pilot" class="button huge">Apply Now</a>
 
@@ -32,7 +32,7 @@ The Launch Program is all about guiding you to launch your startup. You will bui
 * Weekly appointments with your coach
 * Launch Night preparation and presentation
 
-**Cost:** $10,000 (many payment options available)  
+**Cost:** Starts at $10,000 (many payment options available)  
 **Length of Launch Program:** 15 weeks (Batch 3 starts Aug. 1)
 
 <a href="/apply" class="button huge">Apply Now</a>
@@ -41,7 +41,7 @@ The Launch Program is all about guiding you to launch your startup. You will bui
 
 The Growth program is designed to help you grow and scale your organization into sustainable impact. We offer a menu of items, including:
 
-* Monthly gatherings with other startup founders
+* Regular gatherings with other startup founders
 * Access to special work sessions
 * Access to fractional C-suite services (e.g. CFO, CMO)
 * Discounted Wayfare Workspace
