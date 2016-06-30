@@ -1,6 +1,10 @@
 ---
 title: Wayfare Labs
 timezone: America/Los_Angeles
+exclude:
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
 collections:
   posts:
     title: Posts
