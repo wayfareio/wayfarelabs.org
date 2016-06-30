@@ -1,10 +1,6 @@
 ---
 title: Wayfare Labs
 timezone: America/Los_Angeles
-exclude:
-  - config.ru
-  - Gemfile
-  - Gemfile.lock
 collections:
   posts:
     title: Posts
@@ -24,6 +20,10 @@ defaults:
     type: pages
   values:
     layout: page
+exclude:
+- config.ru
+- Gemfile
+- Gemfile.lock
 sass:
   sass_dir: _sass
 permalink: pretty
