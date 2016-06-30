@@ -58,6 +58,17 @@ speakers:
     Society in 2016, he also served as a fractional CMO for several startups and as
     a director of marketing for a large credit union in Southern California.
   image: "/uploads/pilot-jay-sherer.jpg"
+- name: Samantha Tanner
+  company: Samantha Tanner Interiors
+  title: Founder
+  bio_text: Samantha Tanner Interiors is a full service design firm providing residential
+    and commercial design services for discerning clientele. With a design degree from
+    Interior Designers Institute and a kick start working as the right-hand designer at a
+    highly respected Orange County firm, Sam brings a wealth of knowledge and a down to
+    earth sensibility to her own projects. Sam believes that good design is a process---one
+    that expands to incorporate new discoveries and evolves as the project takes root---and
+    she seeks to make that journey a fun and fulfilling one for her clients.
+  image: "/uploads/pilot-sam-tanner.jpg"
 - name: Joel Beukelman
   company: Google
   title: UX Designer on Android
@@ -101,6 +112,17 @@ speakers:
     Wayfare Labs, Jeff serves as a guide for numerous startup founders who are launching
     their ideas into viable, scalable movements for the common good.
   image: "/uploads/pilot-jeff-tanner.jpg"
+- name: Joanna Waterfall
+  company: Yellow Collective
+  title: Founder
+  bio_text: Joanna Waterfall is the Founder of Yellow Co., an organization that exists
+    to empower creative women to become agents of good. With a degree in graphic design
+    and digital media and a background in branding, Joanna believes that creativity
+    and business should go hand in hand. She has been featured in publications such
+    as The Huffington Post, LA Lady Magazine, Career Contessa, Belong Magazine and
+    others. She is motivated by the belief that women can change the world through
+    stepping into what makes them come alive.
+  image: "/uploads/pilot-joanna-waterfall.jpg"
 - name: Brandon Arbini
   company: Wayfare
   title: CEO
@@ -115,17 +137,6 @@ speakers:
     in a world he loves...helping others shape their meaningful ideas and take purposeful
     action.
   image: "/uploads/pilot-brandon-arbini.jpg"
-- name: Joanna Waterfall
-  company: Yellow Collective
-  title: Founder
-  bio_text: Joanna Waterfall is the Founder of Yellow Co., an organization that exists
-    to empower creative women to become agents of good. With a degree in graphic design
-    and digital media and a background in branding, Joanna believes that creativity
-    and business should go hand in hand. She has been featured in publications such
-    as The Huffington Post, LA Lady Magazine, Career Contessa, Belong Magazine and
-    others. She is motivated by the belief that women can change the world through
-    stepping into what makes them come alive.
-  image: "/uploads/pilot-joanna-waterfall.jpg"
 schedule:
 - title: Friday Night
   activities:
