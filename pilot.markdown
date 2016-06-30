@@ -62,12 +62,13 @@ speakers:
   company: Samantha Tanner Interiors
   title: Founder
   bio_text: Samantha Tanner Interiors is a full service design firm providing residential
-    and commercial design services for discerning clientele. With a design degree from
-    Interior Designers Institute and a kick start working as the right-hand designer at a
-    highly respected Orange County firm, Sam brings a wealth of knowledge and a down to
-    earth sensibility to her own projects. Sam believes that good design is a process---one
-    that expands to incorporate new discoveries and evolves as the project takes root---and
-    she seeks to make that journey a fun and fulfilling one for her clients.
+    and commercial design services for discerning clientele. With a design degree
+    from Interior Designers Institute and a kick start working as the right-hand designer
+    at a highly respected Orange County firm, Sam brings a wealth of knowledge and
+    a down to earth sensibility to her own projects. Sam believes that good design
+    is a process---one that expands to incorporate new discoveries and evolves as
+    the project takes root---and she seeks to make that journey a fun and fulfilling
+    one for her clients.
   image: "/uploads/pilot-sam-tanner.jpg"
 - name: Joel Beukelman
   company: Google
