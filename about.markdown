@@ -42,11 +42,6 @@ Executive Director, Wayfare Labs
       <strong>Elisha Avne</strong><br>
       Program Manager
     </div>
-    <div class="3u 6u$(medium) 12u$(xsmall)">
-      <span class="image"><img src="/images/jay.jpg" alt="Jay Sherer" width="225"></span><br>
-      <strong>Jay Sherer</strong><br>
-      Director of Marketing
-    </div>
   </div>
 </div>
 
