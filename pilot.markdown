@@ -50,8 +50,8 @@ speakers:
     creative writing and conversely, the crazy competitiveness of Crossfit.
   image: "/uploads/pilot-kc.jpg"
 - name: Jay Sherer
-  company: Reclamation Society
-  title: Founder
+  company: APU
+  title: Director of Innovation & Entrepreneurship
   bio_text: Jay Sherer is the executive director of the Reclamation Society, a nonprofit
     startup. He has co-founded several companies, including Hello Agent, which produced
     a predictive analytics app for real estate agents. Before starting the Reclamation
