@@ -17,8 +17,8 @@ details:
     steps for when you leave, additional reading material, and a Wayfare journal.
 - image: "/uploads/pilot-speakers.jpg"
   at2x_image: "/uploads/pilot-speakers@2x.jpg"
-  text: 'Ten speakers will be presenting on a series of relevant topics, all geared
-    toward helping you build a sustainable and impactful organization.  '
+  text: 'Ten speakers will present on a series of essential topics, all geared toward
+    helping you build a viable product, service, or program.  '
 - image: "/uploads/pilot-community.jpg"
   at2x_image: "/uploads/pilot-community@2x.jpg"
   text: 'Good ideas become great in the context of community. You will have opportunities
@@ -38,7 +38,7 @@ details:
     rate).
 - image: "/uploads/pilot-box.jpg"
   at2x_image: "/uploads/pilot-box@2x.jpg"
-  text: 'Swag box! This part is a surprise... but you can be sure that these fun,
+  text: 'Swag bag! This part is a surprise... but you can be sure that these fun,
     hand-curated products will be useful to you on your journey as a founder. '
 speakers:
 - name: KC Holiday
@@ -211,6 +211,6 @@ apply: |
   Apply now so we can learn more about you and your idea to build the world's best future!
 ---
 
-Pilot is one of the three programs offered through Wayfare Labs. It is designed to help you pilot the world-changing idea that you are passionate about. Whether you are a founder with a brand new idea, or you are piloting a new product within your existing organization, Pilot is designed specifically for you. The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
+Pilot is one of the three programs offered through Wayfare Labs. It is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea, or you are piloting a new product within your existing organization, Pilot is designed specifically for you. The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
 
-The Pilot Retreat will be learning intensive and full of valuable content in a workshop style setting. You will walk away with tangible action steps to pilot your idea and create a minimum viable product or service. You'll hear from a variety of passionate, credible speakers and founders who have extensive experience in startup, social enterprise, and non-profit work.
+The Pilot Retreat combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
