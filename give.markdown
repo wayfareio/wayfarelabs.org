@@ -6,4 +6,4 @@ position: 7
 
 Wayfare Labs is a 501(c)3 (application pending) social enterprise. We are fueled by a generous community. Will you consider donating to our work? Choose from some of our options or give a custom amount. We appreciate your generosity and stewardship!
 
-<a href="https://wayfarelabs.givingfuel.com/general-fund" class="button huge">Give Now</a>
+<a href="https://wayfarelabs.givingfuel.com/general-fund" class="button huge">Donate Now</a>
