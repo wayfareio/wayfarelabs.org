@@ -18,7 +18,7 @@ Our Pilot Program, which kicks off with a weekend conference, is for founders an
 * What metrics should you track?
 * How do you prove and communicate impact?
 
-The next Pilot Program starts with a weekend of learning and planning July 15-17. If you're interested, apply today.
+The Pilot Program starts with a weekend of learning and planning. If you're interested, apply today.
 
 <a href="/pilot" class="button huge">Apply Now</a>
 
@@ -32,7 +32,7 @@ The Launch Program is all about guiding you to launch your startup. You will bui
 * Weekly appointments with your coach
 * Launch Night preparation and presentation
 
-**Cost:** Starts at $10,000 (many payment options available)  
+**Cost:** Ranges from $10,000-$12,000, depending on payment options
 **Length of Launch Program:** 15 weeks (Batch 3 starts Aug. 1)
 
 <a href="/apply" class="button huge">Apply Now</a>
