@@ -7,10 +7,10 @@ content_layout: home
 headline: Let's build the world's best future together.
 slogan: A startup incubator for creation-restoring movements.
 benefits:
-  description: Wayfare Labs offers [unique programs](/programs) for nonprofit and
-    social good startups. We provide space and support to Christ-following founders
-    so that they can turn their ideas into reality. Launch and grow your organization
-    in our community!
+  description: Wayfare Labs provides [programs](/programs) tailored to the unique
+    needs of nonprofit and social good startups. We provide space and support to Christ-following
+    founders so that they can turn their ideas into reality. Launch and grow your
+    organization in our community!
   list:
   - title: Practical Application
     description: Pilot and launch your idea. Solidify your business model. Raise funds.
@@ -24,17 +24,16 @@ benefits:
       and practices into your daily startup life.
 cta:
   title: Partner with us to launch more creation-restoring movements
-  description: Wayfare Labs is a 501(c)3 charitable organization<sup>*</sup>. We are
-    fueled by a generous community. Will you consider donating to support our work?
-    Choose from some of our options or give a custom amount. We appreciate your generosity
-    and stewardship!
+  description: "Wayfare Labs is a 501(c)3 non-profit organization<sup>\\*</sup>. \n\nWe
+    are fueled by a generous community. Will you consider donating to support our
+    work, even for as little as $5/month? We appreciate your generosity and partnership!"
 features:
   title: Community Matters. Let Us Introduce You to Ours.
   description: The foundation of our programs is Christ-centered community. Here are
     some of the ways you'll engage and interact at Wayfare Labs.
   list:
   - title: Dinners and Events
-    description: 'From Founders Dinners to Demo Days to Launch Nights to networking
+    description: 'From Founders Dinners to Demo Nights to Pitch Nights to networking
       events, we provide a range of events in our programs and invite guests to share
       their wisdom and experience with our founders: We''ve hosted Christine Nolf,
       founder of Mika CDC; artist and entrepreneur, Noah J. Elias; Jessie Simonson
@@ -44,9 +43,9 @@ features:
     at2x_image: "/uploads/dinners@2x.jpg"
   - title: Workshops
     description: 'Taught by startup founders and experts in their respective fields,
-      our workshops cover key topics that startup founders need to address, like:
-      How to Test Your Hypotheses; Mission and Vision Formation; Customer Development;
-      Fundraising; Communication; Entity Formation; and Team Leadership.'
+      our workshops cover key topics like: How to Test Your Hypotheses; Mission and
+      Vision Formation; Customer Development; Fundraising; Communication; Entity Formation;
+      and Team Leadership.'
     image: "/uploads/workshops.jpg"
     at2x_image: "/uploads/workshops@2x.jpg"
   - title: Coaching
@@ -56,8 +55,8 @@ features:
     image: "/uploads/coaching.jpg"
     at2x_image: "/uploads/coaching@2x.jpg"
   - title: Advising
-    description: Many of the experts in our network of advisors offer unique advising
-      sessions specifically designed for program participants.
+    description: Many of the experts in our network of advisors offer advising sessions
+      specifically designed for program participants.
     image: "/uploads/advising.jpg"
     at2x_image: "/uploads/advising@2x.jpg"
 ---
