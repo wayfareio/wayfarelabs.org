@@ -4,7 +4,7 @@ date: 2016-02-26 17:25:00 -08:00
 position: 1
 ---
 
-Wayfare Labs offers a few [distinct programs](/programs) to help you start piloting your idea, launch your organization, and grow your business into sustainable impact. We're currently accepting applications for the Launch program. If you're interested in the Growth program, please [contact us](/contact). The Launch program starts twice per year, in the spring and fall (for more information on the programs, [see our details page](/programs)). Here's what to expect when you apply:
+Wayfare Labs offers two [programs](/programs) to help you start piloting your idea and launch your organization. We're currently accepting applications for the Launch program. The Launch program starts twice per year, in the spring and fall (for more information on the programs, [see our details page](/programs)). Here's what to expect when you apply:
 
 **STEP 1: Complete an application online.**  
 Tell us about your experience, your idea, and the team you've put in place. We'll help guide you into the right program for your needs.
@@ -35,9 +35,6 @@ After the interviews are complete, we have extensive conversations about who sho
 
 **Question: How do I determine whether or not my startup or my idea is a good fit for this program?**  
 **Answer:** The best way? Fill out and application or [shoot us an email](/contact). Most of the startups we work with are in early stages of their history. Some are even just an idea written down on a napkin. Others are already piloting their product or service or have even been operating for several years. Most need help with their business models, fundraising, storytelling, and developing their mission and vision. Have a question? We're here to help. [Contact us](/contact)!
-
-**Question: May I apply for the Growth program?**  
-**Answer:** Absolutely. The Growth program is customized for each startup, so we'd love to talk with you about your organization and current needs. [Send us a message](/contact), and we'll chat.
 
 **Question: I would love to support Wayfare Labs. How can I do that?**  
 **Answer:** First off, thank you! There are a number of ways to support this work. Like any non-profit, we need financial support---head over to our [giving page](http://wayfarelabs.givingfuel.com/general-fund) donate. If you've founded a startup, you might be a good fit to join our advisor network. If you're not a founder but you do have expertise in another area. You can still volunteer by teaching one of our workshops.  
