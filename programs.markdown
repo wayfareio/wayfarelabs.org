@@ -4,7 +4,7 @@ date: 2016-02-26 17:26:00 -08:00
 position: 2
 ---
 
-Wayfare Labs offers three distinct programs--Pilot, Launch, and Growth--created to help founders pilot minimum viable products or services, launch minimum viable organizations, and grow their organizations into sustainable impact.
+Wayfare Labs offers two programs--Pilot and Launch--created to help founders pilot minimum viable products or services and launch minimum viable organizations.
 
 ## Pilot
 
