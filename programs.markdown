@@ -36,18 +36,3 @@ The Launch Program is all about guiding you to launch your startup. You will bui
 **Length of Launch Program:** 15 weeks (Batch 3 starts Aug. 1)
 
 <a href="/apply" class="button huge">Apply Now</a>
-
-## Growth
-
-The Growth program is designed to help you grow and scale your organization into sustainable impact. We offer a menu of items, including:
-
-* Regular gatherings with other startup founders
-* Access to special work sessions
-* Access to fractional C-suite services (e.g. CFO, CMO)
-* Discounted Wayfare Workspace
-* Ongoing appointments with our coaches and advisors
-
-**Cost:** Variable, depending on each startups needs  
-**Length of Growth Program:** Variable, depending on progress
-
-<a href="/contact" class="button huge">Inquire Now</a>
