@@ -1,0 +1,8 @@
+.prices {
+  s { color: maroon; }
+  > * {
+    margin: 0 0 2rem 0;
+    width: 50%;
+    float: left;
+  }
+}

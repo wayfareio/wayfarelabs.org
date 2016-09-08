@@ -1,0 +1,63 @@
+<!-- Banner -->
+<section id="banner">
+  <div class="content">
+    <div class="inner">
+      <header>
+        <h2>{{ page.headline | default: page.title }}</h2>
+        <p>{{ page.slogan }}</p>
+      </header>
+      <ul class="actions">
+        <li><a data-scroll-to="#one" class="button huge">Learn More</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- One -->
+<section id="one" class="wrapper">
+  <div class="inner">
+    <p>{{ page.benefits.description | markdownify }}</p>
+    <ul class="features">
+      {% for benefit in page.benefits.list %}
+        <li>
+          <h3><span>{{ benefit.title }}</span></h3>
+          {{ benefit.description | markdownify }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<!-- Two -->
+<section id="two" class="wrapper cta">
+  <div class="inner">
+    <header>
+      <h2>{{ page.cta.title }}</h2>
+      <ul class="actions">
+        <li><a href="https://wayfarelabs.givingfuel.com/general-fund" class="button big">Give Now</a></li>
+      </ul>
+    </header>
+    {{ page.cta.description | markdownify }}
+  </div>
+</section>
+
+<!-- Three -->
+<section id="three" class="wrapper">
+  <div class="inner">
+    <header class="major">
+      <h2>{{ page.features.title }}</h2>
+      {{ page.features.description | markdownify }}
+    </header>
+    <div class="posts">
+      {% for feature in page.features.list %}
+        <section class="post">
+          <div class="image"><img src="{{ feature.image }}" alt="{{ feature.title }}"></div>
+          <div class="content">
+            <h3>{{ feature.title }}</h3>
+            {{ feature.description | markdownify }}
+          </div>
+        </section>
+      {% endfor %}
+    </div>
+  </div>
+</section>

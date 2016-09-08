@@ -1,0 +1,148 @@
+<section id="main" class="wrapper sidebar left">
+  <div class="inner">
+
+    <header class="major">
+      <h2>Pilot Program</h2>
+      <p>Starts July 15&ndash;17 @ <a href="http://wayfare.io">Wayfare HQ</a>, a welcoming, thoughtfully-designed coworking space for world changers located in Costa Mesa, California.</p>
+    </header>
+
+    <section class="pilot-nav only-xsmall">
+      <h3><a data-scroll-to="#overview" data-scroll-offset="-100">Overview</a></h3>
+      <h3><a data-scroll-to="#details" data-scroll-offset="-100">Details</a></h3>
+      <h3><a data-scroll-to="#speakers" data-scroll-offset="-100">Speakers</a></h3>
+      <h3><a data-scroll-to="#schedule" data-scroll-offset="-100">Schedule</a></h3>
+      <h3><a data-scroll-to="#menu" data-scroll-offset="-100">Menu</a></h3>
+      <h3><a data-scroll-to="#cost" data-scroll-offset="-100">Cost</a></h3>
+      <h3><a data-scroll-to="#apply" data-scroll-offset="-100">Apply</a></h3>
+      <hr class="only-xsmall">
+    </section>
+
+    <div class="content">
+      <a id="overview"></a>
+      <div class="hero-slider image fit">
+        {% for overview in page.overview %}
+          <div><img src="{{ overview.image }}"></div>
+        {% endfor %}
+      </div>
+      <h2>Overview</h2>
+      {{ content }}
+
+      <hr>
+      <a id="details"></a>
+      <h2>Details</h2>
+      <div class="posts">
+        {% for detail in page.details %}
+          <section class="post">
+            <div class="image">
+              {% if detail.image %}
+                <img src="{{ detail.image }}">
+              {% else %}
+                <img src="/images/pic01.jpg">
+              {% endif %}
+            </div>
+            <div class="content">
+              {{ detail.text | markdownify }}
+            </div>
+          </section>
+        {% endfor %}
+      </div>
+
+      <hr>
+      <a id="speakers"></a>
+      <h2>Speakers</h2>
+      <div class="posts">
+        {% for speaker in page.speakers %}
+          <section class="post">
+            <div class="image">
+              {% if speaker.image %}
+                <img src="{{ speaker.image }}" alt="{{ speaker.name }}">
+              {% else %}
+                <img src="/images/pic01.jpg" alt="{{ speaker.name }}">
+              {% endif %}
+            </div>
+            <div class="content">
+              <h3>{{ speaker.name }}</h3>
+              <p>{{ speaker.title }}, {{ speaker.company }}</p>
+              {% if speaker.bio_text %}
+                {{ speaker.bio_text | markdownify }}
+              {% endif %}
+            </div>
+          </section>
+        {% endfor %}
+      </div>
+
+      <hr>
+      <a id="schedule"></a>
+      <h2>Schedule</h2>
+      <ul class="schedule features">
+        {% for day in page.schedule %}
+          <li>
+            <h3><span>{{ day.title }}</span></h3>
+            <ul class="day-schedule">
+              {% for activity in day.activities %}
+                <li>{{ activity | markdownify }}</li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <hr>
+      <a id="menu"></a>
+      <h2>Menu</h2>
+      {{ page.menu.description | markdownify }}
+      <div class="image fit">
+        <img src="{{ page.menu.image }}">
+      </div>
+      <p><small><em>By the way, this is a photo of an actual meal created by the chef catering the event! So good...</em></small></p>
+
+      <ul class="menu">
+        {% for meal in page.menu.meals %}
+          <li>{{ meal | markdownify }}</li>
+        {% endfor %}
+      </ul>
+
+      <hr>
+      <a id="cost"></a>
+      <h2>Cost</h2>
+      {{ page.cost.description | markdownify }}
+      <div class="prices row">
+        {% for price in page.cost.prices %}
+          {% capture nowunix %}{{ 'now' | date: "%Y%m%d" }}{% endcapture %}
+          {% assign nowunix = nowunix | plus: 0 %}
+          {% capture end_date %}{{ price.end_date | date: "%Y%m%d" }}{% endcapture %}
+          {% assign end_date = end_date | plus: 0 %}
+          {% if end_date >= nowunix %}
+            <p>
+              <strong>{{ price.start_date | date: "%B %-d" }}&ndash;{{ price.end_date | date: "%B %-d" }}</strong>
+              <br>
+              {% if price.price != 947 %}
+                <s>$947</s>
+              {% endif %}
+              ${{ price.price }}
+            </p>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <hr>
+      <a id="apply"></a>
+      <h2>Apply</h2>
+      {{ page.apply | markdownify }}
+      <a href="https://wayfare.typeform.com/to/ahPimp" class="button huge">Get Started</a>
+    </div>
+
+    <div class="sidebar not-xsmall">
+      <section class="pilot-nav">
+        <h3><a data-scroll-to="#overview" data-scroll-offset="-100">Overview</a></h3>
+        <h3><a data-scroll-to="#details" data-scroll-offset="-100">Details</a></h3>
+        <h3><a data-scroll-to="#speakers" data-scroll-offset="-100">Speakers</a></h3>
+        <h3><a data-scroll-to="#schedule" data-scroll-offset="-100">Schedule</a></h3>
+        <h3><a data-scroll-to="#menu" data-scroll-offset="-100">Menu</a></h3>
+        <h3><a data-scroll-to="#cost" data-scroll-offset="-100">Cost</a></h3>
+        <h3><a data-scroll-to="#apply" data-scroll-offset="-100">Apply</a></h3>
+      </section>
+    </div>
+
+  </div>
+</section>

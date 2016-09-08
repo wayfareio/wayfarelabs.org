@@ -1,0 +1,63 @@
+---
+title: Home
+date: 2016-02-26 17:15:00 -08:00
+position: 0
+page_style: landing
+content_layout: home
+headline: Let's build the world's best future together.
+slogan: A startup incubator for creation-restoring movements.
+benefits:
+  description: Wayfare Labs provides [programs](/programs) tailored to the unique
+    needs of nonprofit and social good startups. We provide space and support to Christ-following
+    founders so that they can turn their ideas into reality. Launch and grow your
+    organization in our community!
+  list:
+  - title: Practical Application
+    description: Pilot and launch your idea. Solidify your business model. Raise funds.
+      Build an audience. Grow your organization. Achieve your vision.
+  - title: Emotional Support
+    description: Journey alongside experienced experts and passionate entrepreneurs
+      who care about you, understand the journey you're embarking on, and support
+      you throughout the programs.
+  - title: Spiritual Guidance
+    description: Learn from other Christ-followers and integrate spiritual insights
+      and practices into your daily startup life.
+cta:
+  title: Partner with us to launch more creation-restoring movements
+  description: "Wayfare Labs is a 501(c)3 non-profit organization<sup>\\*</sup>. \n\nWe
+    are fueled by a generous community. Will you consider donating to support our
+    work, even for as little as $5/month? We appreciate your generosity and partnership!"
+features:
+  title: Community Matters. Let Us Introduce You to Ours.
+  description: The foundation of our programs is Christ-centered community. Here are
+    some of the ways you'll engage and interact at Wayfare Labs.
+  list:
+  - title: Dinners and Events
+    description: 'From Founders Dinners to Demo Nights to Pitch Nights to networking
+      events, we provide a range of events in our programs and invite guests to share
+      their wisdom and experience with our founders: We''ve hosted Christine Nolf,
+      founder of Mika CDC; artist and entrepreneur, Noah J. Elias; Jessie Simonson
+      and Alli Talley, co-founders of 31 Bits; Kohl Crecelius, CEO and co-founder
+      of Krochet Kids International; and many more...'
+    image: "/uploads/dinners.jpg"
+    at2x_image: "/uploads/dinners@2x.jpg"
+  - title: Workshops
+    description: 'Taught by startup founders and experts in their respective fields,
+      our workshops cover key topics like: How to Test Your Hypotheses; Mission and
+      Vision Formation; Customer Development; Fundraising; Communication; Entity Formation;
+      and Team Leadership.'
+    image: "/uploads/workshops.jpg"
+    at2x_image: "/uploads/workshops@2x.jpg"
+  - title: Coaching
+    description: Each startup receives a coach who consults with them throughout the
+      course of their program. If you're struggling with a specific topic, these coaches
+      will give you the encouragement and guidance you need to push through it.
+    image: "/uploads/coaching.jpg"
+    at2x_image: "/uploads/coaching@2x.jpg"
+  - title: Advising
+    description: Many of the experts in our network of advisors offer advising sessions
+      specifically designed for program participants.
+    image: "/uploads/advising.jpg"
+    at2x_image: "/uploads/advising@2x.jpg"
+---
+
