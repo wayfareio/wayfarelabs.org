@@ -4,7 +4,7 @@ date: 2016-02-26 17:25:00 -08:00
 position: 1
 ---
 
-Wayfare Labs offers two [programs](/programs) to help you start piloting your idea and launch your organization. We're currently accepting applications for the Launch program. The Launch program starts twice per year, in the spring and fall (for more information on the programs, [see our details page](/programs)). Here's what to expect when you apply:
+Wayfare Labs offers [programs](/programs) to help you start piloting your idea and launch your organization. We're currently accepting applications for the Launch program. The Launch program starts twice per year, in the spring and fall (for more information on the programs, [see our details page](/programs)). Here's what to expect when you apply:
 
 **STEP 1: Complete an application online.**  
 Tell us about your experience, your idea, and the team you've put in place. We'll help guide you into the right program for your needs.
@@ -25,15 +25,12 @@ After the interviews are complete, we have extensive conversations about who sho
 ## Frequently Asked Questions
 
 **Question: What are you looking for in startup applicants?**  
-**Answer:** Everyone brings something different to the table, but in general, we're looking for founders compelled by their faith to launch creation-restoring movements. What does that mean? It means we're looking for people pursuing their calling to help solve the world's problems.
-
-**Question: Do you accept for-profits and non-profits?**  
-**Answer:** Yes! While there are valid strategic reasons for choosing either status, we care more about how pursuit of the common good is integrated into your business model than we care about how the government views your entity. We'll even help you decide how to structure your organization if you haven't done it yet.
+**Answer:** Everyone brings something different to the table, but in general, we're looking for founders compelled by their faith to launch creation-restoring movements. What does that mean? It means we're looking for people pursuing their calling to help solve the world's problems and help marginalized and vulnerable people flourish.
 
 **Question: Why do the programs cost money?**  
 **Answer:** We strive to provide a valuable, personal experience for all our Labbers. That means putting together a killer program backed by a great team---which requires money. Some of that is subsidized by the donations we accept, but we also require startups to pay for the programs as a proof point of their ideas and their grit. Our programs include training on how to raise the funds, so don't be too worried about the cost. If you have questions about how that will work, [contact us](/contact) and tell us about it!
 
-**Question: How do I determine whether or not my startup or my idea is a good fit for this program?**  
+**Question: How do I determine whether or not my idea is a good fit for this program?**  
 **Answer:** The best way? Fill out and application or [shoot us an email](/contact). Most of the startups we work with are in early stages of their history. Some are even just an idea written down on a napkin. Others are already piloting their product or service or have even been operating for several years. Most need help with their business models, fundraising, storytelling, and developing their mission and vision. Have a question? We're here to help. [Contact us](/contact)!
 
 **Question: I would love to support Wayfare Labs. How can I do that?**  
