@@ -207,10 +207,12 @@ cost:
   - start_date: 2016-07-07 17:00:00 -07:00
     end_date: 2016-07-13 17:00:00 -07:00
     price: 947
-apply: |
-  Apply now so we can learn more about you and your idea to build the world's best future!
+apply: 'Apply now so we can learn more about you and your idea to build the world''s
+  best future!
+
+'
 ---
 
-Pilot is one of the programs offered through Wayfare Labs. It is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea, or you are piloting a new product within your existing organization, Pilot is designed specifically for you. The Pilot Retreat kick-starts this program, where you will create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
+The Pilot program is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea, or you are piloting a new product within your existing organization, Pilot is designed for you. The Pilot Retreat kickstarts this program. You'll create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
 
 The Pilot Retreat combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
