@@ -14,22 +14,23 @@ benefits:
     emotional, and practical support to Christ-following founders so that they can
     turn their ideas into reality!
   list:
-  - title: Practical Resources
-    description: Interrogate reality. Make sense of problems in our neighborhoods
-      and cities. Begin identifying solutions and testing ideas to advance the common
-      good.
-  - title: Emotional Support
-    description: Journey alongside experienced experts and passionate entrepreneurs
-      who care about you, understand the journey you're embarking on, and support
-      you and the idea you're building.
-  - title: Spiritual Guidance
-    description: Learn from other Christ-followers and integrate spiritual insights
-      and practices into your daily startup life.
+  - title: Summits
+    description: We host and facilitate summits that interrogate reality, making sense
+      of problems in our neighborhoods and cities so we can identify solutions and
+      test ideas to advance the common good.
+  - title: Consulting
+    description: We consult with your city government, organization, or church to
+      facilitate urban planning projects.
+  - title: Incubation
+    description: We help form new organizations that are often birthed from summits
+      and consulting. We act as fiscal sponsor and guide them strategically in their
+      infancy.
 cta:
   title: Partner with us to launch more creation-restoring movements
-  description: "Wayfare Labs is a 501(c)3 non-profit organization<sup>\\*</sup>. \n\nWe
-    are fueled by a generous community. Will you consider donating to support our
-    work, even for as little as $5/month? We appreciate your generosity and partnership!"
+  description: |-
+    Wayfare Labs is a 501(c)3 non-profit organization<sup>\*</sup>. All donations are tax deductible.
+
+    We are fueled by a generous community. Will you consider donating to support our work? We appreciate your generosity and partnership!
 features:
   title: Community Matters. Let Us Introduce You to Ours.
   description: The foundation of our programs is Christ-centered community. Here are
