@@ -1,5 +1,6 @@
 ---
 title: Pilot
+published: false
 position: 3
 content_layout: pilot
 overview:
