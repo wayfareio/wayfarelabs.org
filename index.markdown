@@ -26,7 +26,7 @@ benefits:
       and consulting. We act as fiscal sponsor and guide them strategically in their
       infancy.
 cta:
-  title: Partner with us to launch more creation-restoring movements
+  title: Partner with us to make sense of and solve more problems.
   description: |-
     Wayfare Labs is a 501(c)3 non-profit organization<sup>\*</sup>. All donations are tax deductible.
 
