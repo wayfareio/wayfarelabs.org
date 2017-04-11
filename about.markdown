@@ -4,8 +4,8 @@ date: 2016-02-26 17:27:00 -08:00
 position: 5
 ---
 
-**Our Vision**  
-By 2030, cities would 
+**Our Vision and Dream**  
+By the end of 2017, leaders and institutions would be actively engaged in creating new organization to advance the common good. Our dream is that leaders across the world would work together to build cities where even the most vulnerable flourish.
 
 **Our History**  
 In 2013, my co-founder Brandon and I attended the Q gathering in Los Angeles where Erwin McManus asked attendees this question: “What if the church became the human incubator for creating the world’s best future?” That question resonated with us. More than that, it compelled us to action. We believe the church isn't a building or an institution but rather a community of Christ-followers called by God to participate with him as he renews the world.
