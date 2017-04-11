@@ -9,10 +9,7 @@ slogan: A collective impact action tank for the common good.
 benefits:
   description: Wayfare Labs provides [programs](/programs) designed for making sense
     of problems in the world that aren't adequately being addressed and facilitating
-    the formulation of solutions to promote human flourishing. The result--not for
-    profit startups that are making the world a better place. We provide spiritual,
-    emotional, and practical support to Christ-following founders so that they can
-    turn their ideas into reality!
+    the formulation of solutions to promote human flourishing.
   list:
   - title: Summits
     description: We host and facilitate summits that interrogate reality, making sense
