@@ -5,7 +5,7 @@ position: 0
 page_style: landing
 content_layout: home
 headline: Let's build the world's best future together.
-slogan: An idea incubator for creation-restoring movements.
+slogan: A collective impact action tank for the common good.
 benefits:
   description: Wayfare Labs provides [programs](/programs) designed for making sense
     of problems in the world that aren't adequately being addressed and facilitating
