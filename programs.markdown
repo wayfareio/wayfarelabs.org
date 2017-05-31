@@ -13,7 +13,7 @@ We consult with governments, organizations, and other entities to help them plan
 We hold and facilitate summits and forums to address systemic problems that multiple institutions are facing through a collective impact model.
 
 ## Program Development and Incubation
-We incubate new organizations formed from our summits and consulting work.
+We help form new organizations that are often birthed from summits and consulting. We act as fiscal sponsor and guide them strategically in their infancy.
 
 ## Resources
 We provide resources for everyday people to advocate for collective impact efforts that promote the common good.
