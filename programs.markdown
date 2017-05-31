@@ -12,7 +12,7 @@ We consult with governments, organizations, and other entities to help them plan
 ## Summits
 We hold and facilitate summits and forums to address systemic problems that multiple institutions are facing through a collective impact model.
 
-## Incubation
+## Program Development and Incubation
 We incubate new organizations formed from our summits and consulting work.
 
 ## Resources
