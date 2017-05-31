@@ -18,16 +18,16 @@ benefits:
   - title: Consulting
     description: We consult with city governments, businesses, and other organizations
       and churches to help them organize for human flourishing.
-  - title: Incubation
+  - title: Program Development and Incubation
     description: We help form new organizations that are often birthed from summits
       and consulting. We act as fiscal sponsor and guide them strategically in their
       infancy.
   - title: Resources
-    description: We provide resources to train people for advocacy.
+    description: We provide resources and platforms to train people for advocacy.
 cta:
   title: Partner with us to make sense of and solve more problems.
   description: |-
-    Wayfare Labs is a 501(c)3 non-profit organization<sup>\*</sup>. All donations are tax deductible.
+    Wayfare Labs is a 501(c)3 not-for-profit organization<sup>\*</sup>. All donations are tax deductible.
 
     We are fueled by a generous community. Will you consider donating to support our work? We appreciate your generosity and partnership!
 ---
