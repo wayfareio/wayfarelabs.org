@@ -5,29 +5,28 @@ position: 0
 page_style: landing
 content_layout: home
 headline: Let's build the world's best future together.
-slogan: A collective impact action tank for the common good.
+slogan: An action tank for the common good.
 benefits:
-  description: Wayfare Labs provides [programs](/programs) designed for making sense
-    of problems in the world that aren't adequately being addressed and facilitating
+  description: Sequoia Collective provides [programs](/programs) designed for making
+    sense of problems in the world that aren't adequately being addressed and facilitating
     the formulation of solutions to promote human flourishing.
   list:
   - title: Summits
-    description: We host and facilitate summits that interrogate reality, making sense
-      of problems in our neighborhoods and cities so we can identify solutions and
-      test ideas to advance the common good.
+    description: We host and facilitate summits that make sense of problems in our
+      neighborhoods and cities so we can identify solutions and test ideas to advance
+      the common good.
   - title: Consulting
-    description: We consult with city governments, businesses, and other organizations
-      and churches to help them organize for human flourishing.
+    description: We consult with city governments, businesses, organizations and churches
+      to help them find meaningful solutions for human flourishing.
   - title: Program Development and Incubation
-    description: We help form new organizations that are often birthed from summits
-      and consulting. We act as fiscal sponsor and guide them strategically in their
-      infancy.
+    description: We help form new organizations that often come out from summits and
+      consulting. We act as fiscal sponsor and guide them strategically in their infancy.
   - title: Resources
     description: We provide resources and platforms to train people for advocacy.
 cta:
   title: Partner with us to make sense of and solve more problems.
   description: |-
-    Wayfare Labs is a 501(c)3 not-for-profit organization<sup>\*</sup>. All donations are tax deductible.
+    Sequoia Collective is a 501(c)3 not-for-profit organization<sup>\*</sup>. All donations are tax deductible.
 
     We are fueled by a generous community. Will you consider donating to support our work? We appreciate your generosity and partnership!
 ---

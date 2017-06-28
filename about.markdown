@@ -14,11 +14,11 @@ Brandon had already started several companies, and had taken Zencoder through th
 
 In 2015, we started by running an incubation program to help difference-makers launch their ideas into programs, products, and services. In early 2017, we began recognizing that globalization was creating systemic problems that needed systemic solutions. An emerging field of work called collective impact captured our attention, and we focused the Wayfare Labs mission on making sense of these systemic problems and facilitating shared development of systemic solutions with institutions and experts with deep knowledge and lived experience. 
 
-In many ways, we're a think tank, but we're not limited to research and insight. We're committed to supporting the birth of creation-restoring movements. We're an action tank for the common good.
+In many ways, we're a think tank, but we're not limited to research and insight. We're committed to supporting creation-restoring movements. We're an action tank for the common good.
 
-If you find yourself resonating with this mission and vision, we'd love for you to join us. Like any non-profit 501c3 organization in its earlier stages, we need financial capital in the form of [donations](https://wayfarelabs.givingfuel.com/general-fund) to fuel our work. We're also currently looking to [connect](http://wayfarelabs.org/contact/) with experts in the following fields: affordable housing solutions, student debt, gentrification, and culture change. 
+If you find yourself resonating with this mission and vision, we'd love for you to join us. Like any non-profit 501c3 organization in its earlier stages, we need financial capital in the form of [donations](https://wayfarelabs.givingfuel.com/general-fund) to fuel our work. We're also currently looking to [connect](/contact) with experts in the following fields: affordable housing solutions, student debt, gentrification, and culture change. 
 
-And if you're experiencing a problem in your organization and you want help making sense of it and developing solutions, we offer consulting services to help further your mission. [Let us know how we can help.](http://wayfarelabs.org/contact/)
+And if you're experiencing a problem in your organization and you want help making sense of it and developing solutions, we offer consulting services to help further your mission. [Let us know how we can help.](/contact)
 
 For the world's best future,
 
@@ -48,9 +48,3 @@ Executive Director, Wayfare Labs
     </div>
   </div>
 </div>
-
----
-
-## Sponsors
-
-Generous support provided by [Pipedrive](https://pipedrive.com/tafe/wayfarelabs).
