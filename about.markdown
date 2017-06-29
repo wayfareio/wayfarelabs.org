@@ -24,7 +24,6 @@ For the world's best future,
 
 **Jeff Tanner**  
 Executive Director, Sequoia Collective / Wayfare Labs
-
 ---
 <div class="container">
   <div class="row uniform">
