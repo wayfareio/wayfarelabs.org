@@ -26,9 +26,6 @@ For the world's best future,
 Executive Director, Sequoia Collective / Wayfare Labs
 
 ---
-
-## Our Team
-
 <div class="container">
   <div class="row uniform">
     <div class="3u 6u(medium) 12u$(xsmall)">
@@ -37,8 +34,3 @@ Executive Director, Sequoia Collective / Wayfare Labs
       Co-founder/Executive Director
     </div>
     <div class="3u 6u$(medium) 12u$(xsmall)">
-      <span class="image"><img src="/images/brandon.jpg" alt="Brandon Arbini" width="225"></span><br>
-      <strong>Brandon Arbini</strong><br>
-      Co-founder
-    </div>
-    <div class="3u 6u(medium) 12u$(xsmall)">
