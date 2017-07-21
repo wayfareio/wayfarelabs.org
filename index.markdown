@@ -28,6 +28,6 @@ cta:
   description: |-
     Sequoia Collective is a 501(c)3 not-for-profit organization<sup>\*</sup>. All donations are tax deductible.
 
-    We are fueled by a generous community. Will you consider donating to support our work? We appreciate your generosity and partnership!
+    We are fueled by a generous community. Join us in our work!
 ---
 
