@@ -8,4 +8,12 @@ Sequoia Collective, operating through Wayfare Labs, is a 501(c)3 purposeful ente
 
 Will you consider supporting our work? We appreciate your generosity!
 
-<a href="https://wayfarelabs.givingfuel.com/general-fund" class="button huge">Donate Now</a>
+ <script id="funraise-form-lib" src="https://d2n4tvy2wsd0oo.cloudfront.net/widget/common/1.3/funraise.min.js" type="text/javascript"></script>
+<script id="funraise-form-fa5709981148" type="text/javascript">
+    var f1148 = new Funraise({
+        id: 'fa570998-d2f1-4a14-9706-c4570b4e6341:1148',
+        isPopup: true
+    });
+    f1148.init();
+</script>
+<div id="fc-fa5709981148"></div>
